@@ -1,0 +1,673 @@
+,Då har klockan blivit 14, jag vill hälsa välkommen till dagens myndighetsgemensamma pressträff. De 
+som deltar idag är Taha Alexadersson, ställföreträdande krisberedskapschef, Socialstyrelsen. Karin 
+Tegmark Wisell, avdelningschef, Folkhälsomyndigheten. Anders Nystedt, smittskyddsläkare, Region 
+Norrbotten och Morgan Olofsson, kommunikationsdirektör på MSB. Det går bra efteråt att ställa frågor 
+till gruppen.  
+-Jag kommer börja med att påminna om den epidemiologiska situationen innan jag går in på detaljer. 
+Nationellt har vi en nedgång, men ett fortsatt högt antal fall. Läget just nu är att nedgången på nationell 
+nivå som vi sett, har funnits sen 5 veckor tillbaka, men det är ett högt antal fall. Vi har regionala 
+skillnader. Därför har vi med oss smittskyddsl äkare Anders Nystedt från Norrbotten för att återkoppla 
+situationen där. Smittskyddsåtgärderna gäller fortsatt i hela landet. Även om utvecklingen är god så är 
+det viktigt att förhålla sig till de åtgärder som gäller. Vi vill särskilt lyfta att hålla avstå nd, arbeta 
+hemifrån, avstå sociala träffar på fritiden t ex fester. Jag kommer tillbaka till dessa frågor. Detta var bara 
+en påminnelse om att åtgärderna gäller fortsatt. Om vi backar och tittar globalt så är det här en bild från 
+WHO, World Health Organiza tion, som visar antalet fall per vecka. De olika färgerna i grafen 
+representerar de olika WHO -regionerna. Europa som har den ljusgröna färgen går nedåt sedan 6 -8 
+veckor tillbaka. Vi ser en minskning vecka för vecka. Det som varit är den enorma utveckling a v fall i 
+Indien, som nu också vikt av. Det är fortfarande ett stort antal fall där, som representeras av staplarna 
+för sydöstra asien. I Sydamerika har flera länder haft en ökning. Vi får bevaka och se. Även om det syns 
+en nedgång globalt, så är pandemin l ångt ifrån över. Den här bilden visar data till och med vecka 20, då 
+det totalt rapporterats in 166 miljoner fall.  
+Om vi går till Europa och tittar på kartorna som visar 14 dagars kumulativ incidens, alltså totala antalet 
+fall rapporterade under de senaste  14 dagarna per 100.000 invånare - så gäller denna vecka 19 och 20. 
+Ju mörkare färg desto större förekomst. Sverige har den mörkare färgen och vissa regioner i Sverige har 
+en ännu mörkare färg. Ytterligare några länder i vår närhet, Baltikum, har också rät t så mörka färger. 
+Men det sker en relativt brant nedgång i i stort sett alla europeiska länder. Dessa färger förändras allt 
+eftersom, men de ligger efter eftersom den visar på 14 -dagarsincidensen.  
+Om vi tittar på Sverige och rapporterade fall vecka för ve cka, på detta diagram som visar till och med 
+vecka 20 kan vi se nedgången sedan 5 veckor tillbaka, att vi haft minskat antal fall vecka för vecka. I 
+detta diagram finns inte fallen för innevarande vecka med. Vi kommer uppdatera de siffrorna så 
+småningom, m en vi har inte kompletta data för gårdagen just nu. Vi ser en nedåtgående trend, jag 
+hänvisar till vår dashboard för de senaste siffrorna som är till och med klockan 16 igår. Om vi tittar till 
+och med vecka 14 så hade vi siffran, vad gäller fall per 100 00 0 invånare under senaste 14 -
+veckorsperioden som var 427. Det var det som representerades i den europeiska kartan. Det ser lägre ut 
+om vi skulle flytta ned några dagar, eftersom trenden är fortsatt nedåtgående. Om vi tittar på antal 
+testade individer per ve cka så ser man att symtomen på luftvägsbesvär viker i samhället, och vi har 
+minskat behov av testning. Under vecka 20 minskade antal individer som testades och nu är vi nere på 
+250.000 testade individer per vecka, ett högt antal fortsatt. Om vi tittar på n yinlagda fall på IVA vecka 
+för vecka, ser vi i detta diagram att man har en ljus färg för de senaste två veckor som är inkompletta, 
+men vi ser samma minskande trend på antal IVA -inlagda per vecka. Socialstyrelsen kommer återkomma 
+kring det, men det stärker  bilden av en nedåtgående pandemi i landet. Som alltid så finns en 
+eftersläpning på denna typ av data. Det gäller även antal avlidna. Här ser vi, under senaste 
+fyraveckorsperioden att vi har ett lite lägre antal avlidna vecka per vecka. En brasklapp vad gä ller 
+senaste 2 veckor, på detta diagram finns inte innevarande vecka med överhuvudtaget. Vi har nu 14451 
+
+rapporterade avlidna. Pandemin är inte över och ni ska verkligen ta till er att vi har ett stort antal 
+individer som dör och läggs in i intensivvården.  Vi har en pågående pandemi här och nu. Jag nämnde att 
+vi skulle prata om Norrbotten särskilt. Där är det mer än någonstans aktuellt att påtala att vi fortfarande 
+befinner oss i en pandemi. Den här bilden visar ett linjediagram över tid. Då är det 7 -dagars förekomsten 
+per vecka som visas. På den här bilden är det några utvalda regioner som finns med. Region Norrbotten, 
+som är den stora, feta lila linjen överst i diagrammet, som man ser har en högre sjudagarsförekomst, om 
+man räknar ihop förekomsten för sju d agar per 100 000 invånare, som ligger högre än riket som är den 
+svarta, lite tjockare, streckade linjen som vikt kraftigt i linje med bilderna jag visat. Samma gäller för 
+Västra Götalandsregionen, Stockholm och Västerbotten som är närliggande region till N orrbotten. 
+Trenden man ser för i princip alla regioner, med något undantag som inte viker lika snabbt som riket, så 
+är det Norrbotten som sticker ut - där man ligger betydligt högre vad gäller förekomst. Det här är en 
+karta där, ju mörkare färg, desto högr e förekomst av covid -19. Detta visar vecka 18, 19 och 20. Då ser ni 
+hur varje region får ljusare och ljusare färg allt eftersom, men för Norrbotten ligger man kvar på hög 
+förekomst. Jag lämnar därmed över ordet till smittskyddsläkare i Norrbotten, Anders N ystedt, för att 
+berätta mer om deras egna data.  
+-Tack för det. Vi kan kika på första bilden på en gång, det är i och för sig lite av en repris, vi har 
+fortfarande här en hög smittspridning och många fall. Genom pandemin så har vi sett toppar i samband 
+med lov och kalenderbiten visar att det sticker iväg i samband med dem. Men efter påsk har vi sett att 
+den här höga trenden kvarstått tyvärr, uppe hos oss. På nästa bild kan man också visa vilken påverkan 
+det där har på vården. Vi har fortfarande väldigt hårt belastad slutenvård. Orange kurvan - the host 
+muted me - på det fall, you are muted...  
+-Du hörs nu Anders.  
+-Jag får konstiga meddelanden. Det jag ville visa är att belastningen är hög på slutenvården och det är 
+jobbigt. Norrbotten gruvar sig för första hal van av sommaren för det lär bli fortsatt hårt arbete för dem. 
+Det man kan spekulera i, vi kan titta på nästa bild, var det här sker nu. Här är det också stor skillnad i 
+karaktär mot hur det varit tidigare. Det har skett arbetsplatsrelaterat, men nu är det som du sa, Karin, 
+ofta i sociala sammanhang och i samband med att man glömmer de förhållningsregler som finns. Man 
+håller inte avstånd i samband med privata fester. Den gröna linjen som är antal fall per 10 000 invånare, 
+där ser vi 13 -19-åringar som sticke r iväg. Det är väldigt tydligt i Kirunas utbrott, att många smittkedjor 
+börjar i samband med att ungdomar träffas och anordnar kalas, fester och så. Så plockar man hem det 
+där till föräldrarna och syskon och vidare till kanske mormor och morfar om det vill  sig illa och vidare ut i 
+samhället därifrån. Så att - det är klart att ungdomar ska väl i tonåren sakna lite konsekvenstänkt, men 
+jag tror att vi måste jobba väldigt mycket med att rikta oss till ungdomar och deras förälder, så alla kan 
+hjälpas åt att för söka minska den delen av smittspridningen. Det är klart att i Norrbotten tycker jag det 
+är otur för oss och ganska dålig tajming att mycket av diskussionen i media och i samhället handlar om 
+öppnande, för det är egentligen inte det vi behöver, vi behöver v erkligen ha garden uppe för att inte få 
+fortsatt den här typen av smittspridning. Jag jobbar lokalt med att försöka få våra medborgare i detta 
+stora län att följa råden och instruktionerna för hur man ska bete sig för att fortsatt stoppa 
+smittspridningen. För vi ser som sagt fortfarande hög sjuklighet. Mamma och pappa hamnar på sjukhus 
+och kanske till och med på IVA och vi har som sagt fortfarande dödlighet även om den är mindre, men 
+mormor och morfar kan hamna i graven och det vill nog inga ungdomar. Vi få r kämpa på och vill vara 
+väldigt tydliga med att den text och de råd som finns i den allmänna författningen gäller i hela Sverige 
+men extra mycket just nu i Norrbotten. Bollar tillbaka till Karin.  
+
+-Tack så mycket Anders för det inspelet. Vi lämnar epidemio login vad gäller förekomsten av fall i landet 
+och olika regioner, här är återkoppling av vilka varianter vi har, av virus, som förekommer i Sverige för 
+närvarade. Vi har ett program där vi helgenomsekvenserar ett urval av prover, som är positiva för 
+sarsco v2, där ligger vi på 10 procent, men det finns en eftersläpning. I diagrammet som är de senaste 
+veckorna, så visar den lila stapeln antal fall vi haft. Ni känner igen toppen som varit, med 40.000 fall i 
+veckan, vecka 14 -15 och sen en nedgång. Det här är ti ll och med vecka 17, för det är bara till dess vi har 
+representativa data för helgenom. Längst ned i grafen ser ni de turkosgröna staplarna som visar andelen 
+av positiva fall som är helgenomsekvenseringsanalyserade. Vi ligger strax över 10 procent, men sen aste 
+veckorna ligger man lite lägre, det sker fortfarande tillkommande resultat där, så det höjs allt eftersom. 
+Vi gör helgenomsekvensering nationellt, vissa regioner gör punktinsatser och sekvenserar mer ibland, 
+andra har andra typningsmetoder som komplem ent till nationella överblicken. Utöver de 10 procent 
+som sekvenseras, så sekvenseras de som vairt utomlands eller som haft utbrott av en karaktär där 
+många smittas snabbt över tid. Det är grunden till datan vi har för att se hur det ser ut med olika 
+varia nter. Vi följer alla varianter bland dessa dryga 10 procent, men vi återkopplar på vår webbplats 
+löpande om virusvarianter av särskild betydelse. Så här långt är det fyra varianter som europeiska 
+smittskyddsmyndigheten pekar på. Den brittiska, den sydafrik anska, den brasilianska och den indiska 
+varianten. Dessa har olika benämningar och jag ska visa hur utvecklingen sett ut för dessa virusvarianter 
+av särskild betydelse. Här ser vi ett veckodiagram och hur över tid, den brittiska varianten b.1.1.7, under 
+våren ökade i andel av alla virus som blev typade. Man såg att under februari, mars och april, så blev det 
+så att den här varianten totalt dominerat i landet och nu står för över 90 procent av alla virus som vi 
+påvisar hos sjuka med covid -19. Sen, redan från  årsskiftet, lyftes P.1 som först påvisades i Brasilien och 
+den som heter B.1.351 som först påvisades i Sydafrika, att de också var av särskild betydelse. De har vi 
+också följt, men inte sett att de ökat i andel. De finns i grafen som två av de linjer i bo tten av grafen. Det 
+vi nu börjat följa nu är den som heter B.1.617.2 som är den variant som påvisats i Indien och där man 
+från Storbritannien och många Europeiska länder, inte minst från Indien, visat att denna variant ökat i 
+omfattning. Än så länge i Sver ige ser vi inte denna variant i större omfattning, men vi följer den noga. 
+Det här är ett stapeldiagram som visar förekomsten av den variant som visades i Indien, 617.2. Här är 
+det i antal fall. Den första vi påvisat var från vecka 13, med två sådana fall i landet. Sen har det varit 
+ströfall vecka för vecka och där vi totalt har 23 fall som är påvisade till och med vecka 17. Nu är det så 
+att det finns tre undervarianter av den indiska varianten. Det är enbart den som heter .2 som lyfts som 
+"variant of conce rn" som finns med i statistiken, som man ska hålla ögonen på. Tidigare har vi visat alla 
+hopsamlade indiska varianter. Men nu kommer vi följa den som heter .2 främst. Nu lämnar vi 
+varianterna och går över till hur det ser ut med vaccinationerna. Det här är  en återkommande bild, där vi 
+ser ett veckodiagram.  
+Det blåa visar antalet individer som fått minst en dos vaccin.  
+Vi är nu uppe i över 3,5 miljoner individer som fått minst en dos vaccin.  
+Man ser i diagrammet de som fått två doser, som är färdigvaccinerad e - och det ligger över 1 miljon 
+individer, närmar sig 1,5 miljoner individer som fått två doser.  
+De åldersgrupper som är aktuella för vaccinationsprogrammet, så har vi haft en tydlig prioritering 
+kopplat till ålder, om man bor på Säbo, eller lider av risk faktorer.  
+Här ser man utfallet av de vaccinerade:  
+
+Längst till höger ser vi den totala siffran: Över 40 procent av Sveriges medborgare, över 18 år har fått 
+minst en dos.  
+90+, där är över 90 procent som fått en dos, och 80 procent+ för de som fått två doser.  
+Längre ner är det väldigt högt i gruppen 60 -69, och det pågår aktiviteter i regionerna för att vaccinera 
+längre och längre ner i åldrarna.  
+Föregående vecka, vecka 20 - och ser vilka som vaccinerades, ser man i den mörk -orange stapeln, som 
+fick sin första dos under vecka 20. Det handlar framförallt om 50 -59-åringarna.  
+Andra dosen handlar om 70 -79-åringarna, men det finns även andra grupper i samhället som fått sin 
+andra dos förra veckan.  
+Vi påminner om att vi ser en tydlig effekt av vaccinationerna på antal  sjukdomsfall.  
+De har god effekt mot sjukdom, men förväntas inte förhindra samtliga fall.  
+Grad av samhällsspridning påverkar antal sjukdomsfall, som generellt sjunker.  
+Det påverkar också hur många som blir sjuka, trots vaccination - har man massivt tryck i  samhälle ökar 
+risken för utsatthet.  
+Så det är inte hundraprocentigt.  
+Vi ser ett lågt antal i gruppen, som erbjudits vaccin och fått dos ett och dos två.  
+Vaccinationstakten stiger i och med att fler blir erbjudna vaccin.  
+Det är viktigt att man tänker över fördelarna med att få vaccin, om man erbjuds det.  
+Ser man på vaccinationstäckningen i olika grupper - ett veckodiagram med olika färger i relation till de 
+olika faserna.  
+Längst till vänster är de mest prioriterade - på Säbo.  
+Andelen vaccinerade där ligger högt och steg snabbt innan och efter årsskiftet - över 90 procent.  
+Nästa linje - den lila, är folk med hemtjänst, där det varit svårare att komma ut med vaccinationerna lika 
+effektivt som på Säbo, men i regionerna har man nu kommit så långt att man närmar sig 90 procent.  
+Sen åldersgrupp för åldersgrupp, 10 -årsgrupper, förutom 80+, som är hela spannet uppåt - exkluderat 
+personer på Säbo och med hemtjänst.  
+De som bor hemma, där är det en hög vaccinationstäckning för 80+, samam för 70 -74, 70 -79, och 65 -69. 
+Över 85 procent täckning finns i gruppen 65+, och de allra flesta väljer att vaccinera sig om de får.  
+Ser man på vaccinationstäckning bland 65+, utan särskilda linjer för Säbo, är täckningen mellan 87 -94 
+procent, med en dos, dos två är på gång i åldersordning . 
+Grafen visar sjukdomsfall i relation till vaccinationstäckningen.  
+
+I botten av diagrammet ser man att när vaccinationstäckningen går upp, den streckade linjen med 
+punkter på - då sjunker sjukdomsfallen tydligt.  
+För att summera: 18+ är de som just nu erbju ds vaccination förutom om man tillhör en riskgrupp.  
+44 procent har fått minst en dos, 16 procent har fått två doser.  
+Bilden visar, de mörkblå fyllda symbolerna, visar hur många som fått en dos.  
+Det näramr sig hälften av målgruppen - 44 procent.  
+De med en g ul skugga bakom sig har fått två doser, som kommer fyllas på allt eftersom.  
+Vi har precis sammanställt en enkät som visar att det fortsatt finns en stor vilja att vaccinera sig.  
+Denna vaccinationsviljan är fortsatt stabilt hög. Vi har gjort enkäten tidigar e. Nästan 9 av 10 svarade att 
+de helt säkert - 70 procent, helt säkert, eller troligen, 18 procent, kommer tacka ja till erbjudande om 
+vaccinering.  
+Av de som fått dos ett, säger 97 procent att de kommer ta dos 2.  
+Motsvarande siffror i enkäten från mitten a v mars, var det 69 respektive 22 procent som uppgav detta.  
+Det finns stor vaccinationsvilja. Vaccinationsförekomsten, och andelen i befolkningen som vill ta 
+vaccinet kommer öka.  
+Vaccin skyddar mot svår sjukdom och död. Vi har effektiva vaccin som skyddar m ot svår sjukdom och 
+död i covid -19, men även mot infektion, som vi får mer data på.  
+Det är viktigt att hjälpas åt att komma ur pandemin.  
+Alla som är 18 och äldre kommer erbjudas. Vår rekommendation är att tacka ja till erbjudandet.  
+Det ser olika ut i regio nerna. Ta första och andra dosen.  
+Man får bra skydd efter första dosen, men får ett hållbart skydd efter andra dosen, och får upp nivåerna 
+av skyddet.  
+Vaccinera dig så långt som möjligt där du bor.  
+Det fördelas från Folkhälsomyndigheten, utefter befolkning smängd.  
+För att det ska fungera så bra som möte för alla regioner, underlättar det betydligt om man vaccinerar 
+sig i den region man bor.  
+Ytterligare ett ämne som relaterar till antikroppar. Vi har sammanställt en studie, vad gäller antikroppar 
+efter covid -19-infektion, hos individer födda 1944 i Göteborg, ett samarbete mellan Göteborgs 
+universitet, Sahlgrenska, Västra Götalandsregionen, Försvarsmakten och Folkhälsomyndigheten.  
+Gruppen vid tidpunkten för studien så var en låg andel vaccinerade.  
+Vi har också kunnat plocka bort de vaccinerade, så resultaten speglar de som hade en tidigare 
+genomgånge infektion.  
+
+735 frivilliga deltog, samtliga födda 1944, som ingår i en stoe befolkningsstudie H70, från Göteborgs 
+universitet.  
+Resultaten visar låg förekomst av antikroppar, efter covid -19, bland individerna.  
+Knappa sju procent hade antikroppar mot sars -cov - ett helt år efter pandemin haft en kraftig förekomst 
+i regionen.  
+Det ska jämföras med när vi tittar på förekomsten av antikroppar i andra delar av befolkning en, i andra 
+studier - där vi ser att bland blodgivare var det ungefär vid samam tidpunkt på 25 procent, och hos 
+personer som söker öppenvård låg det totalt på 22 procent.  
+Enkätsvaren visar att majoriteten hade begränsat sociala kontakter, resande i kollekt ivtrafiken, handling 
+i butik, och undvikit folksamlingar.  
+Gruppen har inte, på samma sätt som andra i samhället, drabbas av covid -19. 
+Det är lägre förekomst i gruppen som pekar på att smittskyddsåtgärderna haft god effekt i gruppen.  
+Kommer tillbaka till at t vi har en aktiv pandemi som pågår, ett stort antal fall i landet - det gör att vi alla 
+måste hjälpas åt att trycka ned fallen utan att få negativa konsekvenser på andra hälsoaspekter. Det gör 
+vi alla genom att hjälpas åt. Vi bromsar smittan i första hand  genom att hålla avstånd till andra, både 
+inom - och utomhus. Om det inte är möjligt att hålla avstånd finns rekommendationer på vår webbplats 
+och regionala rekommendationer. Undvik nya nära kontakter, umgås i mindre krets. Det är genom att 
+bjuda smittan på  nya kontakter som vi riskerar att få en fortsatt smittspridning. Stanna hemma även om 
+du bara känner dig lite sjuk. Vi vet att många får en mild sjukdomsbild. Arbeta hemifrån om det finns en 
+möjlighet. De som inte har möjlighet att arbeta hemifrån kan til lsammans med arbetsgivaren göra vad 
+man kan för att smittsäkra arbetsplatsen. Där finns information från arbetsmiljöverket i den frågan. 
+Utöver dessa smittskyddsåtgärderna bromsar vi smittan med vaccination och testning, även om 
+testningen inte bromsar smi tta så hjälper den oss förstå var smittan finns. Testa dig och stanna hemma 
+även vid milda symtom. Vaccinera dig, skydda dig själv och andra. Tänk på en god handhygien. Vi ska 
+inte heller sprida andra smittor. Försök hålla nere all möjlig smittspridning me llan varandra. Jag avslutar 
+med samma bild som jag började med. Vi har en nationell nedgång men högt antal fall i landet. Vi ligger 
+ungefär i den fas som vi var i efter jul - och nyårshelgerna där vi aldrig gick ned särskilt lågt innan vi fick 
+den tredje vå gen. Det är många fall som kan göra att vi får ytterligare ökningar om vi inte håller oss till 
+åtgärderna. Nu har vi vaccinet som hjälper till, men det hjälper inte om vi inte också håller oss till 
+smittskyddåtgärderna. Så igen, håll avstånd, arbeta hemifr ån om möjligt, avstå sociala träffar t ex fester. 
+Det gäller fortfarande, även om vi börjar blicka framåt mot att fasa ut en del av smittskyddsåtgärderna. 
+Med det lämnar jag ordet till Taha Alexadersson och Socialstyrelsen.  
+-Tack så mycket. God eftermiddag , jag ska lämna veckans lägesrapport om hälso - och sjukhusvården. 
+Antal patienter, precis som Folkhälsomyndigheten har beskrivit, ser vi även totalt inom sjukhusvården 
+och antal patienter som behöver vårdas på sjukhusen har minskat sen förra veckan med dry gt 25 
+procent, totalt färre än 1000 patienter som vårdas på landets sjukhus. Det är fortfarande en väldigt hög 
+siffra och stora omställningar krävs för att omhänderta dessa patienter. Dagens siffror är 989 
+inneliggande patienter totalt. Det här omhändertag andet, att man fortfarande behöver leda och 
+prioritera sin verksamhet speglas av bland annat att 6 regioner fortsatt arbetar i ett aktiverat 
+förstärkningsläge. 227 av dessa patienter vårdas på en intensivvårdavdelning med respirator. Vi kan ta 
+
+nästa bild. 227 patienterna motsvarar 45 procent av totalt antal inom intensivvården, 505 vårdas totalt - 
+alltså både covid - och ickecovidrelaterat. Intensivvården ska räcka till annat än att vårda covid -patienter, 
+den ska räcka till betydligt mycket mer än så. Om vi tittar på intensivvårdsplatserna och tillgängligheten 
+så har regionerna sen en vecka tillbaka avvecklat, eller deeskalerat med ungefär 70 intensivvårdsplatser. 
+Dessa 70 platser hade skapats och många fler än så har skapats för att möta ett eskalerat vårdbe hov. 
+När covid -relaterade vårdbehovet deeskaleras så deeskalerar man också intensivvårdsplatser för att 
+personalen ska kunna användas till andra typ av vård, till den vårdskuld vi pratat om, men också för att 
+få andrum. Men där är vi inte riktigt än. Vi ha r totalt 631 disponibla intensivvårdsplatser varav 126 inte 
+är belagda. Dessa 126 motsvarar den 20 procent ledig kapacitet. Det är fortsatt stora variationer i 
+landet. Variationen i tillgänglig kapacitet varierar från 0 procent tillgänglig kapacitet och up påt. Drygt 
+hälften av landets alla regioner ligger under 20 procent ledig kapacitet. Däremot om man ser på den 
+nationella intensivvårdskoordineringen som sker så är det färre akuta transportbehov som lyfts vid 
+mötena de senaste dagarna och veckan. De här u pprätthålls fortfarande dagligen för att kunna 
+tillgodose behov av akuta transporter av patienter. Varje gång det har lyfts har det funnits regioner som 
+kan ta emot. Det beror fortfarande på att vi har ett eskalerat, förstärkningsläge, där man tillskjutit 
+intensivvården mer resurser än man normalt har. Det är en hel del diskussioner som pågår nu och inte 
+minst inom professionen och inom myndigheter, men också med regionerna, som berör just planeringen 
+för sommaren och jag tänker att nästa bild ska försöka i llustrera vad vi pratar om. Den här bilden ska 
+illustrera Socialstyrelsens omräkningar av Folkhälsomyndighetens scenariounderlag som vi såg för några 
+veckor sedan. Det här är omvandlat till behovet av intensivvård kopplat till de respektive scenariorna 0, 
+1 och 2. Den mörkblå linjen, scenario c, motsvarar Folkhälsomyndighetens scenario 2. Den mellangrå är 
+vår scenario b och Folkhälsomyndighetens scenario 1, alltså att utvecklingen skulle fortsatt vid 
+framtagandet av underlaget. Den ljusgrå linjen är scenari o 0, och i den här fallet kallar vi den scenario a. 
+Den tunna svarta linjen visar på faktiskt total beläggning inom intensivvården, alltså covid - och 
+ickecovidrelaterade behov av intensivvård. Grafen illustrera att verkligheten följer scenario a väldigt vä l, 
+till och med lite lägre än vad den illustrera. Däremot har vi två horisontella linjer att ta hänsyn till. Det är 
+det här som planeringen som pågår inom vården handlar om: De två parallella linjerna och respektive 
+hack, om ni ser ett hack nedåt, motsvara r skillnaden när man övergår till en ordinarie 
+sommarbemanning. Så att upprätthålla ett antal intensivvårdsplatser som vid normalbemanning, alltså 
+inte sommaren, jämfört med hur den sjunker när man övergår till sommarbemanning. Den röda linjen 
+illustrera e n kärv situation för intensivvården. Det vill säga att när beläggningen är över 110 procent, 
+alltså när man har överbeläggningar, där har vi varit länge under pandemin, under samtliga tre vågor 
+som varit. Vi har precis paserat den smärtgränsen - men endast  för att man har ett eskalerat läge. Det vi 
+pratar om med sommarbemanning, alltså det som sker vid vecka 24, då sänks tröskeln till där 
+smärtgränsen går, därför med en sommarbemanning kan man inte upprätthålla normalt antal platser. 
+Den orange linjen motsv arar 80 procent beläggning. Det är under den här nivån vi vill befinna oss hela 
+tiden. Alltså att det finns en tillgänglig flexibelt och kapacitet att kunna ta till en ökad tillstörmning av 
+patienter av alla slag.  
+Den linjen passerar vi inte förrän ytterli gare några veckor in i sommaren.  
+Utgår man från träffsäkerheten i dessa scenarier så är det det som väcker planeringsoro, och Norrbotten 
+och vården beskriver generellt hur man diskuterat länge hur planeringen ska se ut och hur vi bemannar 
+inte minst för at t kunna omhänderta även när vaccinationstäckningen och smittspridningen sjunker - 
+
+den sjunker inte nog för att det inte kommer behövas sjukhusvård, men även för annan sjukdom och 
+upprätthålla katastrofmedicinska beredskapen.  
+Vi är glada att kurvorna går ne dåt, men det är långt till att det ska bli påtagligt och märkas inom hälso - 
+och sjukvården och bli ett typ av normaltillstånd.  
+Jag stannar där och ger över till MSB.  
+-Tack! Lyssnar man på Taha Alexandersson, och Karin Tegmark -Wisell, så förstår vi vikten a v att fortsätta 
+följa råd och rekommendationer.  
+Vi på Myndigheten för samhällsskydd och beredskap, MSB, jobbar fortsatt tillsammans med 
+Folkhälsomyndigheten, Socialstyrelsen och Länsstyrelserna och Läkemedelsverket, med olika 
+kommunikationsinsatser för att  påminna och motivera människor att följa rekommendationer och råd 
+för att minska smittspridningen.  
+Insatserna består av allt från traditionella informationskampanjer i olika mediakanaler, till samarbete 
+med civilsamhället för att få ut budskapet.  
+Vi rulla r nästa vecka ut sommarens insatser, där budskapen kommer vara att det är viktigt att handla 
+ensam, till en smittsäker hemester, och att vara ansvarasfulla när man återgår till jobbet.  
+Vi har en särskild satsning med budskap och viktig information till tur ister och säsongsarbetare som 
+kommer till Sverige.  
+Vi samarbetar med turistbranschen och andra aktörer. Det är centralt att arbeta med många olika.  
+Som region Norrbotten var inne på - vi har en temakampanj som riktar sig särskilt till unga inför 
+studenten.  Det är ett jättespeciellt tillfälle för många unga, och även för oss andra, att kunna fira 
+studenterna i landet.  
+Vi har en rapport från Ungdomsbarometern, där många ungdomar säger att de är beredda att bryta 
+restriktionerna för att fira studenten. Vi vill  påtala att alla har ett ansvar för att hålla nere 
+smittspridningen. Visst kan man fira men håll er till restriktionerna.  
+På krisinformation kan man enkelt hitta de råd som gäller, på nationell och regional nivå.  
+Motsvarande information går att få på 11313 . 
+Anders Nystedts ord, från region Norrbotten är bra att fortsätta med: Vi måste fortsatt ha garden uppe.  
+-Vi har begränsat med tid, så håll frågorna kort.  
+Vi börjar med Ekot.  
+-Hej. Ekot: Jag tänkte börja med att vända mig till Folkhälsomyndigheten.  
+Att fl er restriktioner lättas på har fått kritik från Kungliga vetenskapsakademin i veckan, som varnar för 
+konsekvenserna. Hur känns det att få den kritiken nu, och hade ni kunnat vänta till slutet av juni, med 
+lättnader, och öppna för uteserveringar bara, t ex?  
+-I mångt och mycket drar vi samma slutsatser. Vi stärker varandra.  
+
+Vi är mitt i en pandemi och det handlar om förslag vi gjort från 1 juni, att man går in i en mer tydlig 
+reglering, så att effekterna inte slår fel i samhället. Det gör vi i huvudsak från 1  juni.  
+Sen är det vissa justeringar. Men det är viktigt, som de påtalar, att det inte handlar om att 
+smittskyddsåtgärderna ska upphöra, utan om att träffa rätt regleringar, för att kunna trappa ordentligt 
+när vi når ett stabilt läge.  
+Vi har i mångt och mycket samma slutsatser.  
+-Ekot har också kunnat visa i en granskning idag att brister i beredskapslager har påpekats långt före 
+pandemin.  
+Socialstyrelsen, har ni analyserat hur bristerna påverkat belastningen på sjukvården?  
+-Analyser kanske vi inte gjort, hur det påverkat belastningen, bristerna i sig.  
+Men att systemet bygger på ett just in time -system, att det är skört, med extrema importberoende. Det 
+är något vi lyft i många rapporter och många analyser.  
+Sen kan man säga att vi inte gjort någon vidare ana lys. 
+Men pratar vi om förstärkningsläge, när du behöver omprioritera och hela tiden jobba på ett annat sätt, 
+så beror det på vilken grundnivå du börjar på, och beredskapen du har där.  
+Många analyser kommer göras på konsekvenserna, men att det varit brister  i just lagerhantering är 
+något vi lyft många gånger.  
+-Karin Tegmark -Wisell, har ni dragit slutsatser om hur bristerna i förlängningen påverkat 
+smittspridningen?  
+-Det är ju väldigt allvarligt att man har brister, vad gäller hygienrutiner, och så vidare. De t görs ett 
+systematiskt arbete från vår sida, regionernas sida, SKR och Socialstyrelsen ,fa uppmärksamma brister i t 
+ex det.  
+Det är tråkigt att en pandemi ska behöva sätta det så tydligt i fokus - det är viktigt för all smittspridning, 
+även utanför en pand emin.  
+Det är många rapporter som kommer, år efter år, där man lyfter saker återkommande.  
+Det är uppenbart svårt att ta till sig det rapporterna säger, innan man är i situationen.  
+Det pågås många utredningar, efter konsekvensen av att man ser att förändring ar krävs.  
+Men det är mycket som behöver åtgärdas för att se över att vi är bättre rustade.  
+-Många rapporter pekar på att kommuner och regioner var beroende av just in time -leveranserna.  
+Togs det på tillräckligt stort allvar i pandemin?  
+-Det har byggts upp i pandemin, och jag vill hänvisa till Taha Alexandersson, som har ansvar för 
+begreppslagret.  
+
+Det har gjorts åtgärder under pandemin. Vi hoppas det inte kommer fler pandemier, men man måste 
+vara beredd på hur man hanterar det då.  
+-Om jag uppfattar frågan rä tt så handlar det om om man tagit hänsyn till rapporterna och vidtagit rätt 
+åtgärder?  
+-Vissa kommuner och myndigheter - vi har risk - och sårbarhetsanalyser som genomförs varje år - det 
+finns goda exempel på de som tar till sig dem, och förändrar och förbät trar sin förmåga -¨men det är 
+väldigt varierat hur man tagit till sig dem.  
+Utredningen om beredskap i kris och krig handlar inte om ett parallellt system vid krig, utan det ska 
+täppa igen hålen och skapa jämlikhet och jämlikt ansvartagande för beredskapen.  
+-Tv4: Folkhälsomyndigheten har ju gjort olika scenarier där man räknar på framtida utvecklingen och hur 
+smittspridningen kommer se ut framåt. Förra veckan sa Anders Tegnell att man nu låg på nära det mest 
+gynsamma scenario, scenario 0. Följer vi fortfaran de den utvecklingen?  
+-Ja, det är fortfarande så att vi följer det mest gynnsamma scenariot. Vi har en del rapporter på 
+webbplatsen. Från i fredags finns en länk för att se hur vi ligger till i förhållande till scenarierna. Vi ligger 
+lägre än scenario noll när det gäller antal fall.  
+-En fråga till Socialstyrelsen också. Den prognos man visar kring sommaren och semestrar. Hur stor 
+bedömer ni att risken är att man når den här röda linjen som ni hade och att personalen tvingas ställa in 
+semester? Hur nära det s cenariot är man?  
+-Just frågor om själva planeringen för personalen är tydligt arbetsgivares planering. Den har vi inte insyn 
+i. Det vi har insyn är vad man förmedlat att man kan tänka sig upprätthålla - 413 platser en normal 
+sommar, behöver bemannas. Så vi  ska inte gå ned under den siffran och vi kommer att ha ett enormt 
+stort behov av att få ned smittspridningen för att kunna gå ned på den siffran. Oron är stor i landet. Det 
+vi försöker göra från myndigheter, arbetsgivareorganisationer och annat håll är at t försöka komma på 
+sätt att lösa den här problematiken. Det handlar om en kombination av åtgärder som behöver sättas in. 
+Vad det blir kan jag inte svara på. Men oro finns där ute och vårt jobb är att försöka hitta åtgärder för att 
+man ska slippa vara oroli g. 
+-Tack.  
+-Vi släpper in SVT.  
+-Hej. Vi vill ställa frågor till Anders Nystedt främst. Den här ökningen i Norrbotten som vi ser, vad tror du 
+att den beror på?  
+-Det är ingen ökning men vi ser ett oförändrat smittoläge sen februari. Den beror säkert på många saker. 
+Intressant t ex att se att vi hade samma läge i fjol i maj -juni. Då var själva skogsbranden i Gällivare 
+snarare än Kiruna. Det kan ha att göra med klimat, att våren kommer senare hit. Viktigast är att allt för 
+många, de flesta följer de restriktione r som finns, men allt för många gör det inte. Som sagt, fokuset har 
+förändrats från smitta på arbetsplatser och ut i samhället, till smitta i samband med grillfesten hemma 
+med rödvin. Att där går ljudnivån upp och man glömmer att hålla distans och får gans ka stora 
+smittspridningar som tar sig vidare hem till familjen eller ut till samhället.  
+
+-Men klimatet blir varmare i hela Sverige, varför tror du att det är just i Norrbotten där det inte går ned? 
+Vad är skillnaden mellan Norrbotten och övriga Sverige?  
+-Så var det ju i fjol, att senare under sommaren fick vi också en nedgång i våra siffror. Socionom eller 
+folklivsforskare är jag inte, men det känns som att vi haft problem med att nå ut till norrbottningar kring 
+att vi fortfarande är i uppmedgarden -fasen och  att skylla på klimatet. Det är klart att det är larvigt. Det 
+är att vi i vårt län inte riktigt orkar hålla emot längre. Jag tror att vi ska kunna få upp garden hos 
+norrbottningarna också.  
+-Vad vill ni se för åtgärder om smittspridningen inte går ner?  
+-Det som är väsentligt, är att problemet är på individnivå. De delar i öppningsöfrordningen som man 
+pratat om är att man får gå några stycken på bio eller fotboll eller ut och jogga i skogen och restauranger 
+får ha öppet en stund till. Men jag tror problemet ä r att man hört "nu ska vi börja öppna samhället" och 
+klipper där. Egentligen, för individen så är det inte någon större mildrande i restriktioner. Men som sagt, 
+många har tolkat det så och vi hade otur. Dålig tajming för oss i Norrbotten. Anledningen till varför vi är 
+sist i förbättringskurvan är säkert många olika anledningar där klimatet säkert kan vara ett. Men det 
+största bekymret jag ser är att individer inte följer texten i författningen.  
+-TT. 
+-Tack. Taha Alexadersson, först. Jag vill prata lite mer o m sjukvårdspersonal och semester. På bilden du 
+visade så gick beläggningarna ned under bemanning under vecka 26 -27. Där semesterveckorna börjar 
+för att få utrymme för 4 veckors semester för sjuksköterskorna, finns en ljusning där?  
+-Detta är scenarion, inte  prognoser. Vi har försökt omsätta dem för att begripliggöra dem. Det är det 
+första medskicket. Det är inte prognoser utan scenariounderlag. Men det du säger stämmer. Om 
+kurvorna fortsätter som de gjort de senaste två veckorna, in i juli, så kan vi upprätt hålla 20 procent ledig 
+kapacitet om vi har den normala sommarbemanningen. Ja.  
+-Tack. Går vidare till Folkhälsomyndigheten. Ni skrev för en stund sedan om ett dataintrång i Smitnet där 
+det finns information om sjukdomar. Vilken typ av information är det som  obehöriga kan ha kommit åt?  
+-Vi håller på att utreda det nu. Så fort vi fick en signal om att det kunnat vara ett dataintrång så stängde 
+vi ned. Från 16 igår finns inga nya uppgifter vad gäller covid. Det som finns är information om covid och 
+antal nya fa ll. Därför har vi stängt ned nu och kartläggningar om obehöriga tagit del av otillbörlig 
+information eller inte. Där befinner vi oss nu.  
+-Det finns information om personuppgifter?  
+-Ja, det finns hälsodata. Sminet rör inte bara covid -19, utan alla anmälning spliktiga sjukdomar. Vi tar 
+allvarligt på det och avsätter stora resurser för att kartlägga problemet och om det är säkert att öppna 
+upp igen för att säkerställa att man inte får tillgång till data man inte ska ha.  
+-Hur påverkar det att ni har databasen ne dstängd?  
+-På kort sikt påverkar det inte så jättemycket, eftersom vi hela tiden tittar med långsiktiga perspektiv. 
+Men från 16 igår har vi stängt databasen och har inga nya data efter det. Förhoppningen är att vi, genom 
+översynen, ska kunna öppna upp så sn art som möjligt. Men översynen pågår fortfarande.  
+
+-Öppna upp i samma form eller krävs det att den förstärks på något sätt?  
+-Beroende på vad man identifierar, så ska man säkerställa att det inte kan riskera att bli ett nytt intrång. 
+Man för göra en riskbedö mning. Just nu är vi i en kartläggande fas och kan inte komma med uppgifter 
+om hur öppnandet ser ut. Men det är högt prioriterat och avsikten är att kunna ta emot anmälningar så 
+snart som möjligt.  
+-Vi behöver släppa in Aftonbladet. Varsågod.  
+-Tack. Aftonbl adet, med fråga till Socialstyrelsen och Taha.  
+Under 1000, fortfarande väldigt många på sjukhus, inklusive IVA -patienter.  
+Men det är en klar minskning. Kan man säga att det nu vänder, på riktigt?  
+-De bästa måtten att titta på om det vänder - det är första veckan vi ser en konkret förändring i 
+utvecklingen, där det faktiskt går ned med stora tal att vi är på väg mot dalen.  
+Vi är bekymrade, för sist vi var där - mellan våg 2 och 3, stannade dalen på en hög plattform, en 
+situation vi inte vill ha inom hälso - och sjukvården.  
+-Marginalen, om man ser till IVA -patienter. Vi är omkring 400. Smärtgränsen i sommar kommer vara 
+550. Hur stor är marginalen, tycker du?  
+-Smärtgränsen kommer vara ännu lägre. Jag ska vara väldigt tydlig: Smärtgränsen är i väldigt stora delar  
+nådd, för längesedan, bland personal som jobbar inom intensivvården.  
+Det är individer och rutiner, strukturer som gör sitt yttersta för att befolkningen får jämlik vård, och för 
+att kunna ta hand om akuta vårdbehov som uppstår.  
+Det kanske var fel uttryck av mig, att använda smärtgräns som ord.  
+Vi behöver en bättre planering och betydligt bättre långsiktig planering. Vi behöver planera för hösten, 
+och se till att personalen fortsätter arbeta och att vi i samhället, tills vaccinationstakten och täckningen 
+nått nivån att vi får bort viruset helt och hållet, slutar insjukna, om det går att undvika - så 
+beläggningssiffrorna inte blir så höga.  
+-En fråga till Karin Tegmark -Wisell: Regeringen förväntas presentera de första lättnaderna i 
+restriktionerna, som träder i kraft 1 juni.  
+Prognosen ni lagt för scenario noll, om den fortsätter hålla - när tror ni då vi kan lyfta på ytterligare 
+restriktioner?  
+-Enligt vårt förslag, där vi får invänta regeringens ställningstagande till förslaget i de delar vi själva inte 
+ägar, så innebär det att vi föreslår korrigeringar, inga direkta lättnader, förutom barn och unga och deras 
+sportverksamhet, från 1 juni.  
+När nästa nivå kan uppnås handlar om att vi i förslaget pekar på att det ska vara mindre än 200 nya fall 
+per vecka. Det är e tt stabilt läge.  
+Scenarierna är inga prognoser, men vi försöker hela tiden blicka framåt och se vad som är möjligt.  
+
+Någon gång är att man kan gå ner i nivå två, under sommaren.  
+Men följer vi smittotalen, vad gälelr scenario 1, ser det ut att bli lite tidig are än i augusti.  
+Vi har sett, från Norrbotten, och hur deras situation ser ut.  
+Gör vi inte tillräckligt för att förhålla oss till restriktionerna kommer vi inte få den nedgång som är så fin i 
+andra regioner. Vi får vänta och se, men hoppet är stort att om  vi fortsätter på vägen kan vi uppnå det 
+tidigare än augusti.  
+Så fort vi lagt en prognos som är uppdaterad från nuvarande modeller kommer vi uppdatera er om det.  
+-Expressen, frågor till Karin Tegmark -Wisell: Jag börjar med lättnaden av restriktionerna 1 ju ni. 
+Hur ser ni på risken för att vi efter sommaren får ökad smittspridning igen, och införa dagens 
+restriktioner på nytt?  
+-Enligt förslaget går vi in i olika faser, som inte bara baseras på nya fall av covid -19, utan även belastning 
+på sjukvården, och ande len vaccinerade.  
+Bedömningen är att det kommer ge oss skydd mot att gå tillbaka i samma läge som vi varit i under 
+våren.  
+Däremot hindrar det inte en ökning igen, då delar av befolkningen är ännu inte vaccinerade.  
+Vi ser inte att det är troligt att komma ti llbaka till situationen vi varit i under våren.  
+Men vi kan inte lägga garantier för att det inte kommer komma nya utbrottet, eller förändringar i nya 
+varianter. Då är det möjligt att vi inte kan hålla det nere fullt så mycket som scenarierna ser ut.  
+Men be dömningen är att det är ett tryggt återöppnande, med liten risk att backa tillbaka.  
+-Hur ser ni risken för att få en ny smittspridning, när skyddet försvinner hos de som vaccinerades först?  
+-Det behöver nu bevakas.  
+Kliniska prövningar har inte sträckt sig så långt.  
+Vi måste se om det kommer finnas behov att stärka skyddet mot sjukdom, något vi följer och bevakar 
+hela tiden.  
+Fokus är att vuxna befolkningen ska få så gott skydd som möjligt, och när vi når dit kan man blicka ned i 
+yngre åldersgrupp, mot 18 år,  där riskgrupperna är identifierade - men se om det behövs påfyllning hos 
+de mest sårbara grupperna, som de äldre.  
+-Apropå det du säger nu.  
+När tror du vi måste räkna med nästa massvaccinering? En tredje spruta? 6 månader, 12 månader eller 
+24 månader?  
+-Det är svårt. De kliniska prövningarna har inte sträckt sig så långt.  
+Men det är fina resultat som visar att det är kvar på höga nivåer.  
+
+Om det kommer krävas påfyllning går inte att säga. Men fokus är att skyddet man fått nu ligger kvar till 
+nästa säsong.  
+-Barn och att de i yngre åldrar kan komma att bli aktuella för vaccination.  
+EMA förväntas besluta imorgon att 12 -15-åringar ska vaccineras.  
+Kommer även Folkhälsomyndigheten ge såna rekommendationer om den kommer från EMA imorgon?  
+-Vi kommer inte komma med nån  sån rekommendation imorgon.  
+Det man då gör är att man möjliggör godkännande för vaccination i yngre åldrar.  
+Sen ska man göra risk -nytta -bedömningen, och sätta i relation till hur många barn som riskerar svår 
+sjukdom, och de som kan få negativa konsekvense r av vaccinationerna.  
+Man behöver göra en noga risk -nytta -balans -bedömning, och se på barnets perspektiv, innan man går 
+vidare med en sån rekommendation.  
+Men det kommer inte komma något i samband med EMA:s eventuella godkännande.  
+Vi skapar ramarna bara.  
+-Dagens Nyheter: När man nu börjar lätta på restriktioner från 1 juni, så undrar jag hur 
+Folkhälsomyndigheten har resonerat runt tajmingen att genomföra det här veckan innan 
+skolavslutningar och studentfester?  
+-Ja, enligt vårt förslag och vår rapport så inne bär det inga lättnader för just de kategorier du nämner. 
+Här handlar det om andra delar, att möjliggöra sommarläger för barn, att möjliggöra visst 
+idrottsutövande och med fördel sådan som är utomhus. Den första förändringen som vi föreslår från 1:a 
+juni in nebär inte stora lättnader, utan snarare en reglering. För individen innebär det inga förändringar. 
+Vi föreslår att man ska ligga kvar med allt det som finns idag, vad gäller de smittskyddsåtgärder. Det är 
+först i nästa fas man kan förändra smittskyddåtgär derna för individen.  
+-Anders Nystedt i Norrbotten, om jag frågar om tajmingen att genomföra det här inför skolavslutning...  
+-Tajmingen är ju dålig för oss. Och det är som sagt inte de förslag i öppning som egentligen bekymrar 
+mig, utan det är att den allmä nna bilden i samhället och media är att "nu är vi på väg att öppna", men 
+egentligen är det inte så. Man öppnar för att kunna gå på bio eller fotboll, några stycken. För individerna 
+är det samma förhållningsrlger som gäller. Men den allmänna bilden har bliv it fel - och det måste vi i vår 
+region försöka vrida tillbaka. Att det är inte stora studentfester. Man ska absolut fira studenten, men det 
+är inga stora fester som gäller just nu. Vi måste tyvärr fortsätta att huka oss i bänkarna.  
+-Finns det en risk att n är folk hör "lättnader i restriktionerna" så tänker man att faran är över?  
+-Ja, visst är det så. Man stänger av, när man hör det, och lyssnar inte på vilka lättnader det är. Det är lite 
+fler personer som får gå på olika evenemang och restaurangerna är öppn a lite senare. Det senare är nog 
+bra, det är nog bra att folk går på restaurang på kvällen och käkar än att man har grillfesten hemma. Det 
+är nog ett farligare ställe att vara på. Restauranger har förhoppningsvis struktur. Det är tonen i samhället 
+som pass ar oss väldigt dåligt. Åtgärderna i sig spelar nog ingen större roll.  
+
+-Tack så mycket. Vi släpper in Senioren.  
+-Tack så mycket. Jag har två frågor till Karin Tegmark Wisell. Den första har jag försökt få svar på några 
+gånger och ställs när SVT och TV4 stäl ler tittarfrågor till regering och myndigheter: När kommer de 
+personer över 65 år som inte ta Astras vaccin att bli vaccinerade.  
+-Att man inte får entydigt svar på frågan handlar om att det inte går att ge ett entydigt svar på den 
+frågan. Regionerna har ol ika former av vaccin tillgängliga på olika vaccinställen. Där måste man rulla på 
+med den stora vaccinationen för att skapa gott skydd för Sveriges befolkning. Om man avstår den får 
+man vidta andra åtgärder, men så snart det är klart får man gå ut till de s om avstår på grund av oro. 
+Men min uppfattning är att vi inte kan ge ett entydigt svar. Regionerna kämpar på med vaccinationerna 
+och vi måste nå ut till befolkningen så snabbt det går. Det är en massvaccination som pågår. Att 
+individer känner oro och inte vill ta del av det vaccin som erbjuds, det är inte genomförbart för 
+regionerna att anpassa det här. Men så fort de har möjligheten så kommer de möjliggöra det vaccin för 
+individer som man vill ha. Som du sett på bilderna, så rullas vaccinationerna ut så fo rt det bara går. Om 
+vi får ner smittan i hela samhället får vi ett gemensamt skydd mot sjukdomen.  
+-De många som inte vill ta detta vaccin, de behöver inte vara oroliga, de kommer få ett annat vaccin?  
+-Jag kan inte säga när, men det måste vägas mot genomför barheten och att nå ut med vaccin till de 
+stora massorna i befolkningen.  
+-I Sverige är det nästan lika många 50 -59 åringar som 60 -69-åringar som är vaccinerade. Men när det 
+gäller första dosen är det ett par 100 000 fler i den äldre gruppen som fått den. D e har alltså nästan 
+blivit omsprungna av 50 -59 åringarna, i vissa regioner. Ska det vara så att gapet sjunkit från 276000 till 
+100000?  
+-Det blir brytpunkter som sker och kopplar an till det du nämnde. Eftersom det finns olika scheman för 
+olika typer av vac cin. Det är meningen, så klart, att de som behöver vaccinet bäst och det bästa skyddet, 
+ska få det. Det är utifrån det vi vaccinerar. Nu har man sagt att man ska kunna dra ut på tiden för mRNA -
+vaccinerna. Då ser man skillnaden i att sannolikheten inte komm er öka. Vi måste förhålla oss till 
+kunskapen som finns kring dosintervallen. Nu har vi förlängt dosintervallen för mRNA -vaccinerna.  
+-Vetenskapsradion, varsågod.  
+-Tack. Ett par frågor till Karin Tegmark Wisell. Först tänker jag på att fotbolls -EM kommer kör as med 
+publik, bland annat med krav på test innan man går in. Hur ser Folkhälsomyndigheten på det som ett 
+sätt att göra större folksamlingar säkrare. Är det någon idé att använda t ex på större idrottsevenemang 
+eller de fester som studenter inte kommer avs tå ifrån?  
+-Vi får se - de erfarenheter som kommer av användandet av snabbtester. Det har fördel att kunna påvisa 
+höga nivåer av virus. Men det missar en del och fångar inte alla. Där har vi en farhåga och risken är att 
+man använder sig av resultatet för at t inte använda övriga smittskyddsåtgärder. Vi får se vad som 
+kommer ut av det. Det finns studier som har motsägelsefulla resultat. Men det är ingen garanti för att 
+man är helt smittfri. När vi har en så hög smittspridning som nu är det inte aktuellt, för s åpass många 
+slinker igenom. Vi får dra nytta av vad andra länder kommer fram till. Sen beror det också på en teknisk 
+genomförbarhet. Vi ser inte, med den smittspridning vi har nu, att det kan fylla en bra roll eller funktion. 
+Men vi får lära oss av erfaren heterna.  
+
+-Smittspridningen går ned i nästan hela Sverige. Om man får symtom när man är vaccinerad är man 
+kanske mindre benägen att testa sig. Man tänker "det kan i alla fall inte vara corona eftersom jag är 
+vaccinerad". Har ni någon bedömning om hur den ef fekten påverkar siffrorna?  
+-Det är svårt att vaccinera. Vi har en grupp individer i samhället som rapporterar sina symtom. Men det 
+är svårt att veta hur många som testar sig vis a vis hur många som har symtom. Vi ser att 
+smittspridningen minskar. Det går p arallellt med att färre testar sig, men vi har också en sjunkande 
+pandemi. Det är svårt att utvärdera fullt ut.  
+-Går det alltså att säga om det kan vara en viktig faktor i att siffrorna går ner, om det kan lura oss så 
+mycket? Eller finns det skäl att tro.. . 
+-När man följer över tid kan man titta på andelen positiva bland testade. Den sjunker också ganska 
+kraftigt nedåt. Men när man följer samma grupp över tid kan man följa de siffrorna väl. Det följer 
+samma mönster.  
+-Vi släpper in Financial Times.  
+-Två fråg or från mig. Det är tänkt att man ska lätta på restriktionerna nästa vecka, men ni har andra 
+högst antal fall per kapita i EU även om det minskar. Är ni oroade över riskerna med att lätta på 
+restriktionerna, även när man har ganska höga smittotal?  
+-Jag vet  att bilden som man får från media är att vi kommer lätta på restriktionerna. Men från första juni 
+är rekommendationen att några av våra lättnader underlättar för oss att adressera sådant som vi vill 
+adressera. Det är mindre lättnader när det gäller barn o ch utomhusaktiviteter t ex inom idrott. Det är 
+inte samma typ av lättnad som vi kommer implementera när vi har ett kraftigt minskat antal smittotal. 
+Så just nu föreslår vi planer, men det som händer från och med 1:a juni skulle vi inte kalla för lättnader,  
+utan snarare korrigeringar för att få bästa effekt.  
+-Oavsett vad ni kallar det, så är det märkbart att ni lättar på restriktionerna senare än era grannar. Tror 
+ni att ni betalar priset för er coronastrategi?  
+-Som vi sett under pandemin har olika länder ha ft olika vågor, och de har inte skett samtidigt. Vi kom in i 
+andra vågen sent och även i tredje vågen. Nu ser vi även att vi kommer ut senare från den tredje våren. 
+Så jag tycker inte det är så oväntat.  
+-NSD -kuriren.  
+-Anders Nystedt, vilka skarpare råd och  restriktioner vill du införa?  
+-Jag kommer presentera det imorgon.  
+Jag förankrar det i region, länsstyrelse och kommuner. Det är egentligen att man slipar lite på 
+spetsigheten i nuvarande restriktioner, för att få tillbaka initiativet från öppningsdiskussi onen till 
+"hållgardenuppe och fortsätt ett tag".  
+Jag återkommer om det imorgon.  
+-Inga fler frågor? Vi går vidare till Lena Einhorn.  
+-Tack. Vetenskapsforum covid -19, en fråga till Karin Tegmark -Wisell:  
+
+Jag vill ta upp detta med Kungliga vetenskapsakademin s om kom i förrgår, som tolkats som kritik av de 
+lättnader av restriktionerna som kommer 1 juni, och som ändå skjutits på.  
+Det måste finnas bekymmer.  
+De skriver att så länge smittspridningen är fortsatt hög anser expertgruppen att åtgärder som fysisk 
+distans ering och andra sociala restriktioner som minskar smitta måste finnas kvar.  
+Sverige är fortfarande bland de allra högsta i Europa, och sett till hela befolkningen är det bara en 
+tredjedel som fått förstå sprutan.  
+Anders Tegnell sa förra veckan att om man s läpper på trycket kan det gå väldigt fort.  
+Jag undrar därför, eftersom du sa att du håller med KVA - är det ett smittskyddsbeslut eller politiskt 
+beslut?  
+-Det är vår rekommendation. Som jag sade tidigare: Vi gör rekommendationen utifrån hela 
+folkhälsopersp ektivet. Förändringarna vi pekar på, från 1 juni, dels att regleringar ska slå mer träffsäkert. 
+Men lättnaderna handlar om att barn och ungdomar ska kunna ha en aktiv fritid och rörelse.  
+Sen tycker vi precis som KVA lyfter, att det är viktigt med en låg, s tabil smittspridning.  
+Vi är samstämmmiga i det. Det är bra att man lyfter det.  
+Det är lät att den mediala bilden blir att landet öppna från 1 juni, vilket vi inte alls säger.  
+Vi är samstämmiga med KVA i det.  
+Det är först vi ser på vaccinationerna och de tr e parametrarna vi kan säga mer.  
+Vi gör en helhetsbedömning och det är nyckeltalen vi förhåller oss till.  
+Det som görs från 1 juni riktas inte mot att man ska sluta hålla avstånd, etc.  
+Vissa justeringar av regelverken så det blir mer säkrare, det är det det  handlar om.  
+Sen bedöma hela folkhälsoaspekten, inte bara smittskyddsaspekten.  
+Det är allvarliga konsekvenser för barn och ungdomar, om de inte får delta i sport och fritidsaktiviteter.  
+-Sverige ligger förhållandevis illa till fortfarande, och regeringen s köt p ådet några veckor.  
+Jag undrar fortfarande om det primärt är ett smittskyddsbeslut eller politiskt beslut?  
+-Det regeringen gör får de ta ansvar för.  
+Men vår rekommendation, som finns i rapporten, är baserat på vårt uppdrag, där vi ser på hela 
+folkhälsan, där smittskyddsaspekterna är viktigast.  
+Vi styrs inte av politiken. Sen vad regeringen gör är en helt annan sak.  
+-Yle, varsågod.  
+-Hej. Jag undrar över reserestriktionerna som Sverige har idag.  
+
+Tycker Folkhälsomyndigheten att det är viktigt att ha kvar kravet på negativt test för inresande i EU, t ex 
+till grannländerna, som har mindre smittspridning, och krav på isolering i sju dagar?  
+-I vår rapport lyfter vi dessa delar, från förra veckan. Man ser att man kan lätta på en del av 
+rekommendationern a - vad gäller krav på negativt test för inresa, det beslutet ligger på regeringen, och 
+man följer hur EU hanterar frågan.  
+Men det är bekymmersamt, i synnerhet mot grannländerna, dit många arbetspendlar.  
+När det gäller att isolera sig och testa sig dag ett  och fem, det är något vi lyfter i rapporten, och säger att 
+det är något man kan backa mot, i synnerhet mot vissa länder som har hög vaccination och låg 
+smittspridning.  
+-Hur stor nytta har reserestriktionerna gjort?  
+-Som alltid i pandemin är det inte lätt att ta in alla parametrar.  
+Men om vi ser på rekommendationen om provtagning efter ankomst till Sverige, och 
+helgenomsekvensering, ser vi t ex bland i den senaste raden av tillagda virusvarianter, den har betydelse 
+- och de vi fångar i landet har koppling t ill Indien.  
+Vi jämför det med andra länder, där varianten inte förekommer.  
+Vi tror definitivt att det har gjort nytta, men det är svårt att säga.  
+Det är svårt att ha olika regelverk för olika länder, för tull och polis.  
+Skulle man utvärdera ett enskilt lan d så tror jag det är svårt att se en effekt.  
+-Sverige har inte gått med i trafikljusmodellen?  
+-Trafikljusen har gått upp och ner. Vi ser det som att det är svårt, rent genomförbarhetsmässigt.  
+Det ska underlätta för de som reser, än att man ska växla från v ecka till vecka.  
+-Jag hade ganska liknande frågor, till Folkhälsomyndigheten:  
+Rekommendationen om isolering och test på dag ett och dag fem. Det är ju Folkhälsomyndigheten som 
+tagit fram den. Vad är det som ska övervägas nu och när kan den i så fall tänkas  tas bort?  
+-Vi föreslår i vår rapport att man ska beakta att ta bort den från 1:a juni. Jag är inte fullt insatt i alla 
+detaljer men tror att vi kommer ut med det idag på webbplatsen eller imorgon, vi kommer vara klara i 
+frågan om väldigt kort tid.  
+-Då ser  du att det kommer komma ett besked?  
+-Ja, och information om beskedet.  
+-Jag vill också fråga om ni har en uppfattning om i vilken grad de här rekommendationerna om isolering 
+följts - framförallt från Danmark. Vi hör många som klagat över att de inte följts . 
+
+-Vi behöver vända oss till regionerna för att höra vad de har för uppfattning om gränsövergångarna, där 
+det finns många arbetspendlare. Det är kravet på negativt test som följs upp vid gränsövergånganra. 
+Men själva rekommendationen är svår att följa upp hur väl den följts.  
+-Då avslutar vi den här pressträffen och tackar för alla frågor. Tack så mycket.  
+

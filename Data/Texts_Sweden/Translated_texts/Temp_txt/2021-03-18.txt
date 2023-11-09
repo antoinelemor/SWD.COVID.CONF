@@ -1,0 +1,524 @@
+Hej och välkomna till dagens myndighetsgemensamma pressk onferens med det senaste läget när det 
+gäller covid-19. 
+Med idag är Karin Tegmark Wisell, avdelningschef på F olkhälsomyndigheten, Urban Lindberg, 
+avdelningschef på Socialstyrelsen samt Svante Werger, särskild rådgivare på Myndigheten för 
+samhällsskydd och beredskap. 
+VI har många journalister som vill ställa frågor, 16  stycken, och har inte så mycket tid, så jag får be al la 
+om att hålla sig kort. 
+Jag lämnar över till Karin Tegmark Wisell på Folkhä lsomyndigheten. 
+-Tack så mycket. Från Folkhälsomyndigheten ska jag gå  igenom det epidemiologiska läget. Här en karta 
+från WHO som visar antal fall globalt per vecka. Den europeisk smittskyddsmyndigheten har inte 
+uppdaterat graferna, så den mer komplexa grafen visar  vi. Det är ett diagram till och med vecka 10 och 
+olika färger för olika WHO-regioner. Under de senast e 3 veckorna har det varit ökat antal fall 
+rapporterade på global nivå av covid-19. I färgerna  ser man framförallt den ljusgröna färgen, där det är  
+en ökning. Det är Europa. Vi har haft en ökning i E uropa, när det gäller antal fall, av covid-19, unde r de 
+senaste veckorna. Vi har nu ca 119 miljoner fall glob alt anmälda, på något sätt, så de fångas av WHO. Det  
+finns också en svart linje på grafen. Den representera r antal dödsfall. Som ni ser, under senaste 
+veckorna, har dödsfallen fortsatt med nedåtgående tre nd. Om vi sedan går till Sverige: Här ett 
+stapeldiagram, nuvarande vecka är i ljusare färg. Vi ser ökat antal fall rapporterade under senaste 
+veckorna. I Sverige har vi knappa 740 000 anmälda f all totalt. Antal fall per 100 000 invånare under 1 4 
+dagar är 566. Om vi ser på innevarande vecka, den lj usare stapeln, utgör den mer än hälften av 
+föregående vecka redan nu. Det talar för att vi int e har avmattande trend när det gäller antal nya fal l. Vi 
+befarar snarare fler fall, jämfört med förra veckan.  Den här bilden visar också en graf, och antal testade  
+individer per vecka. Under föregående vecka var det  drygt 270 000 testade individer. Det var under 
+vecka 10. Vi har en ökning när det gäller testade i ndivider. Det är i linje med att vi har, i de natio nella 
+rekommendationerna för smittspårning bland annat, utv idgat när det gäller provtagning i samband med 
+smittspårning. Vi tycker man bör ha en väldigt bred p rovtagning i samband med smittspårning, så man 
+inte missar något fall man kan fånga tidigt. Vi går v idare och ser på nyinlagda fall på intensivvården pe r 
+vecka: Det är samma typ av diagram. De senaste 3 vec korna i det här fallet. De ljusare fallen har inte 
+fullständiga data. Under föregående tre veckorna ser vi ökat antal på intensivvården per vecka. Det 
+kommer sannolikt läggas till ytterligare fall för de senaste veckorna. Innevarande vecka är långt ifrån 
+fullständig. Vi har 5624 med laboratoriebekräftad co vid-19 som vårdats hittills med covid-19. Här antal 
+avlidna per vecka. Vi ser under de gångna veckorna att vi haft minskat antal rapporterade avlidna fall  per 
+vecka. Vi är uppe i totalt 13 236 rapporterade avli dna, som haft diagnosen covid-19, under de senaste 30 
+dagarna. En relativt stor eftersläpning i rapporter ingen. Det är därför de senaste veckorna har ljusare 
+färg, för att åskådliggöra det. Kanske kan man ana e n avmattning, när det gäller minskning per vecka i 
+antal avlidna. Med det ökade antal fall som är rappo rterade under senaste månaden, i princip, så befarar 
+vi att det kommer visa sig att minskningen i avlidna  gör avtryck också där. Vi går ifrån den statistik som  
+¨vi återkopplar varje pressträff... Jag kommer återko ppla när det gäller förekomst av antikroppar i olik a 
+grupper av befolkningen. Här ser vi förekomst hos blod givare. Resultaten är från 2020. Bilden visar andel 
+
+blodgivare som hade antikroppar mot covid-19. Det är  9 regioner som ingått i undersökningen. Som ni 
+ser, under vårveckorna - alltså vecka 17-25 då vi pro vtog i princip varje vecka, såg man uppgång bland 
+blodgivare, när det gäller förekomst av antikroppar,  som visar genomgången infektion. Nästa mättillfälle 
+vecka 42, efter sommaren, och det låg kvar på ungefä r 7 procent, nationellt. Man har ungefär samma 
+nivå som under början av sommaren. Vi har inte sett n ågon ökning när det gäller förekomst av 
+antikroppar bland blodgivare. Senare under hösten, b örjan av december, ligger det kvar på ungefär 
+samma nivå, bland blodgivare, dryga 7 procent. Om vi  istället tittar i en annan grupp, som vi också 
+undersökt: Förekomst av antikroppar hos prover tagna f rån patienter som gjort besök i öppenvården. 
+Det kan vara olika skäl att man besökt den, men inte specifikt för covid-19, utan i regel andra diagnoser.  
+Vi har en liknande förekomst av antikroppar, om man tittar i början av december. Det är 8 procent i 
+proverna, från öppenvården, som visar antikroppar mot  covid-19. I gruppen är det ett vidare 
+åldersintervall, eftersom blodgivare är man under en  viss ålderskategori, men öppenvård söker man från 
+spädbarn till 95 års ålder i det här fallet. Vi ser sa mma mönster här. Under våren ser man en ökning av 
+personer som har antikroppar. Man når ungefär 7 proce nt efter våren, en bit in i början av sommaren. I 
+början av hösten är det på ungefär samma nivåer, och det är förväntat, eftersom vi hade mild utveckling 
+av pandemin under sommaren. I början av december har  det gått upp och ligger på ungefär 8 procent i 
+gruppen. Om man tittar på hur det ser ut i olika reg ioner i landet visar bilden förekomst av antikroppar.  
+Det är blodgivargruppen återigen. Vi har sett på 8 regioner som har så mycket data att vi kan få fram 
+statistiskt relevanta underlag. I region Örebro förek ommer det antikroppar hos blodgivare i 11 procent. 
+Vi har en sjunkande skala bland regionerna här: Stoc kholm ganska högt, strax under 10 procent. Västra 
+Götaland lite lägre, Jönköping i ungefär samma nivå som Västra Götaland. Uppsala lite lägre, Skåne 
+hoppar ner, ligger här på dryga 3 procent. Kalmar p å ungefär 2 procent och Västerbotten på ungefär 1 
+procent. Det är uppenbarligen så att utifrån den smit tspridning som var under våren, som det 
+åskådliggör, eftersom det är antikroppar som finns kva r, inför nästa episod av hög smittspridning, så såg 
+det olika ut i regionerna. Det bekräftas när vi ser p å förekomst av antikroppar i öppenvårdsprover. Det ä r 
+vidare åldersintervall och vi har underlag från 7 re gioner. I Örebro är det hög förekomst, 13 procent, m en 
+i Skåne och Västerbotten runt 2 procent. Det är oli ka i regionerna.  
+Det såg olika ut i regionerna när vi gick i den omfa ttande smittspridning som påbörjades i 
+november-december. 
+Vi har också sett hur det ser ut i olika åldersgrupp er. 
+Den här har bilden har mycket information. 
+Först en bild med gula punkter i diagram, barn och u nga 0-19 år. 
+Där ser man under vårveckorna, ökning också där, men  lågt i antikroppar. 
+Samma hösten. 
+Men senare på året, november-december, så hade man där, barn och ungdomar, gått upp till över 10 
+procent vad gäller förekomst av antikroppar. 
+Vi ser att det blir mer ju äldre man är i den grupp en. 
+
+Så intervallet 10-19 år har mer än 0-10 år vad det gäller antikroppar. 
+Vuxna 20-64 år ser vi också att det ökar under våre n, stabilt under sommaren. 
+Ingen större förändring under början av hösten eller  slutet på vintern, runt åtta procent, då vi gick i n 
+under den omfattande smittspridning. 
+Äldre, ser vi ingen ökning, samma som i början av höst en, runt 2 procent, för att sen gå till runt 4 proc ent 
+i början på vintern. 
+Så sammanfattningsvis ser vi att förekomst av antikro ppar är runt hälften så mycket som förekomst, hos 
+de äldre, i gruppen 65-95 år, runt 4 procent, och v uxna runt 8 procent, och barn runt 11 procent, när vi 
+gick in i den omfattande smittspridningen som började  på hösten.- 
+Sammanfattningsvis vill vi förmedla att grupper i sam hället har antikroppar, men stora grupper i 
+samhället har väldigt låga nivåer av antikroppar. 
+Framförallt är det 80-90 procent i samhället som sak nar antikroppar och därför är mottagliga. 
+Det såg vi under december och januari och fortsatt, a tt det är många som i hög grad är mottagliga för 
+infektion. 
+Här en bild som åskådliggör förekomst av olika virusva rianter. 
+Det är till vecka 10. 
+Det är fortsatt förekomst av b.1.1.7 som först påvisades i Storbritannien. 
+ 
+Dessa andelar vi sett är från typningspcr som utgör mar kör för förekomst, som sen bekräftas med 
+helgenomsekvensering. 
+En bra markör för förekomst av den brittiska variante n. 
+Så vi är säkra på att det visar förekomst av den s.k . Brittiska varianten. 
+ 
+Den utgör olika i olika regioner, det är högt i Väs terbotten, från deras data ser vi detta. 
+Och från Region Gotland ser vi låg förekomst. 
+Och Region Stockholm har att det stämmer väl med der sa egna undersökningar. 
+Den brittiska varianten är då dominerande i stort set t i hela landet, utom möjligen Gotland. 
+Det är ett spektrum på 40-84 procent i de olika regi onerna, det är några få regioner som ligger under 
+hälften av alla prover. 
+
+Ser man på en annan virusvariant, som är av särskild b etydelse, är det p1 och b.1.351, som först 
+påvisades i Brasilisen och Sydafrika. 
+Det är fortsatt låg förekomster av dessa. 
+3 av 18 regioner har dock 10 procent eller mer av d essa. 
+Det är skillnad mellan regionerna, den med högst före komst har 17 procent av dessa virusvarianter som 
+först kom till Sydafrika eller Brasilien. 
+Men flera regioner har inga prov som visar denna typ.  
+Det finns på vår webbplats redan uppdaterade siffror om man vill se närmare på det. 
+Också säga något om den paus som vi gjort vad det gäll er vaccinationer med AstraZenecas vaccin. 
+Det utreds av EMA och vi tog beslut i tisdags, att det  är en paus, för vaccinationerna, om den utredning 
+som nu görs av EMA. 
+Vi avvaktar resultat innan vi tar ställning till pause n. 
+EMA har aviserat en presskonferens i eftermiddag kloc kan 16. 
+Vi inväntar deras resultat. 
+Vaccinet används för att skydda mot svår sjukdom och d öd. 
+Pausen gör att fler får vänta på skydd. 
+Men det är hårda krav, och man gör noga beaktanden innan man ser den analys som kommer göras, och 
+som vi sen kan ta ställning till, för att se om vi ska h a fortsättning av denna vaccin eller inte. 
+Och vi har information på vår webbplats till persone r som nyligen vaccinerats med AstraZenecas vaccin. 
+Det gäller symtom man ska vara uppmärksam på. 
+Under senaste 16 dagarna, att man ska vara uppmärksam på vissa symtom som kan vara tecken på 
+allvarlig blödning. 
+Man kan se vår webbplats eller på läkemedelsverkets we bbplats. 
+Vaccinationer pågår för fullt, trots detta. 
+Målet är gott skydd för alla i Sverige mot covid-19.  
+Vi är i slutet på fas 1, alla regioner har påbörjat fas 2 och närmar sig påbörjan av fas 3. 
+Det påverkas av tillgång på vaccin, och ute i region erna får man besked om när det är dags för vem som 
+ska vaccineras. 
+
+Grafen här visar givna vaccinationer. 
+Vi lägger till vecka för vecka hur många som fått. 
+Här hur många sprutor som är givna, totalt. 
+Totalt till idag är det över 1,2 miljoner utförda v accinationer. 
+Av personer 18 år och äldre har nu cirka var 10:e pe rson fått minst en dos. 
+Det rör sig om knappa 900 000 personer som fått dos fr am till idag enligt datan vi har. 
+Det är knappa 400 000 som fått två doser. 
+Per åldersgrupp är detta diagram illustrativt. 
+Den mörka orange färgen visar andelen i åldersgrupper na som fått minst en dos, det ljusare de som fått 
+två doser. 
+Vi ser, dag för dag, att andelen som fått två doser, ökar för 90-åringar och äldre, och för 80-åringar o ch 
+äldre, det är den fasen vi är i, att de mest sårbara  får gott skydd, de som riskerar få de svåraste 
+konsekvenserna av sjukdomen. 
+Täckningen i prioriterade grupper, när vi ser på dem  på Särskilt boende, är det 92 procent som fått en 
+dos och 86 procent som fått två. Ser vi på personer me d hemtjänst, som också tillhör de äldre, är det 70 
+procent som fått minst en dos och 37 procent som fått m inst två. Här antal sjukdomsfall på särskilda 
+boenden och andel vaccinerade. I staplarna ser ni an del sjukdomsfall. Man ser en minskning på SÄBO. Ni 
+ser ett linjediagram, ett i mörkblått, som visar ande l i procent som fått en dos vaccin, och den ljusblå 
+visar två doser vaccin. Det ligger på höga nivåer på särskilda boenden. Närmare 90 procent när det gäller 
+två doser, och över 90 procent när det gäller en dos.  Tittar man på motsvarande sätt på hemtjänst och 
+andel vaccinerade ser vi inte samma branta nedgång,  men vi ser en minskning per vecka. Ser man på 
+streckade linjen, som representerar andel vaccinerade,  ser vi att det är runt 70 procent som fått en dos 
+inom hemtjänsten, och knappa 40 procent har fått två  doser. En korrelation med minskning av 
+förekommande fall och ökning av dem som fått vaccin.  Vi vill påminna om varför vi vaccinerar oss: För att  
+skydda oss själva och andra. Alla över 18 kommer få er bjudande om vaccin. Ordningen styrs av 
+Folkhälsomyndighetens rekommendation om prioriteringa r. Det bygger på att de med störst risk för 
+allvarliga konsekvenser ska prioriteras högst. Tillgång  anpassas efter tillgängliga vaccinationer. Det är 
+regionerna som ansvarar för att utföra vaccinationer na. Alla vaccin är effektiva och skyddar mot 
+covid-19. Det är viktigt att vi har en hög säkerhetsp rofil i vaccinerna. Jag vill påminna, mot bakgrund av 
+stort antal fall och ökningen vi haft under senaste v eckorna, med många sjuka i samhället. Några 
+regioner har fler fall än andra, men alla har stort antal fall av covid-19. Det är viktigt att vi hjälp s åt att 
+hålla emot ökningen av covid-19. Vi befinner oss i en  situation där vi var i början av pandemin, för ett  år 
+sedan, och mars innebar en stor smittspridning. Först i m aj fick vi en dämpniung. Idag har vi 
+vaccinationer av de mest sårbara, och omfattande di agnostik och fler i befolkningen som har något skydd 
+- men vi har också många som inte haft infektionen, o ch vi har omfattande smittspridning. Vi har en 
+
+allvarlig situation. Den har inte på något sätt förs vunnit för att vi närmar oss vår. Det är långt kvar innan 
+vi får förändrat beteende och är mindre inomhus. Vi  måste plana ut kurvan, för att möjliggöra att hälso-  
+och sjukvården kan klara det och hålla ner antal fa ll - samtidigt som vi vill få lite konsekvenser på andr a 
+delar av samhället. Vi ser ju baksidan av restriktione rna som är. Tillsammans kan vi göra det här: Fortsatt 
+är det viktigt att stanna hemma om man bara känner si g lite sjuk. Infektionen kan ha milda symtom. Se 
+efter vad som gäller i din region för testning. Håll  avstånd till alla. Det gäller inomhus och utomhus. D et 
+är viktigt att hålla avstånd, eftersom man kan smitta även innan symtom uppträder. Vissa har så milda 
+symtom att man inte är införstådd med att man är sjuk . Håll avstånd, så motverkar vi smittspridning 
+tidigt. Tvätta händerna med tvål och vatten. Jobba hemifrån om det finns möjlighet. Vaccination: Skydda  
+dig och andra när du får möjlighet. Umgås i mindre krets och undvik nya nära kontakter. Det hänger ihop  
+med att jobba hemifrån. När vi blandar kretsar ger v i möjlighet för smittan att hitta nya grupper att 
+infektera. Testa dig vid symtom och ta reda på vad so m gäller i din region för testning. Och var lyhörd för 
+smittspårning, även om du inte har symtom. Med det lä mnar jag till Socialstyrelsen.  
+-Tack så mycket. Jag ska ge en kort rapport från So cialstyrelsen, om läget i vård och omsorg. Det 
+bekräftar den bild Karin gett. Antal person som behöv er sjukhusvård ökar. Det ligger i linje med 
+smittspridningen vi sett. Vi ligger i en ökning från en hög nivå. Om du lägger på första bilden: Vi ser at t 
+det finns en ökning. Vår senaste uppgift nu är att vi  har 1307 personer som vårdas inneliggande utanför 
+IVA, i landet. Vi har 265 personer som vårdas på inten sivvården. Vi har idag 659 disponibla platser på 
+IVA, 524 är belagda. Av dem är det 265 inneliggande  på IVA med covid-19. Det betyder att precis lite m er 
+än hälften av landets IVA-patienter är covid-19-pati enter. Vi ser också covid-19-patienter i samtliga 
+landets regioner. Vi har strax över 20 procent tillg änglig IVA-kapacitet, och som vanligt är det ojämnt 
+fördelat över landet. Om vi ser på läget i regionern a är det 9 som har rapporterat förändringsläge, 8 i 
+stabsläge, och 4 i normalläge. När det gäller påverka n är det 4 regioner som rapporterar allvarlig 
+påverkan på något område vi följer från Socialstyrel sen. 16 rapporterar en betydande påverkan. När det 
+gäller allvarlig påverkan, eller påverkan överhuvud taget, är det framförallt intensivvården och den 
+påverkan som sker genom den, som rapporteras. Om vi g år över till kommunerna då, jag tror vi kan ta 
+nästa bild, så är det 4 kommuner av 290 som rapportera t mellan 1 och 2 procent smittade patienter. Vi 
+ser en nedgång på särskilda boenden, och även på nästa bild, inom hemtjänsten, även om det inte är lika 
+tydligt. Det är mer i platå. Vecka 10 registrerade v i 22 personer, nysmittade, på särskilda boenden. 
+Jämfört med 38 veckan innan. Men vi ser en snabb minsk ning på särskilda boenden, och även av avlidna. 
+Här ser vi avlidna, på särskilda boenden. På sista b ilden ser vi då att det är en inte lika positiv utve ckling 
+inom hemtjänsten. Det är eftersläpning med några vec kor. Vi hade 160 smittade i hemtjänsten, jämfört 
+med 163 veckan innan.  
+Det är ju fortsatt angeläget att arbeta utifrån alla  rekommendationer och försöka förhindra 
+smittspridning i dessa verksamheter. 
+Avslutningsvis vill jag informera om att vi från Soci alstyrelsen kommer uppdatera preliminär 
+dödsorsaksstatistik för andra halvåret 2020. 
+Vi har då 3500 personer registrerade som avlidna av co vid-19, den tredje vanligaste dödsorsaken efter 
+hjärt- och kärlsjukdomar och cancer. 
+
+Men mer information om det under eftermiddagen. 
+Tack, lämnar över till Svante Werger. 
+-Tack, på MSB följer vi hur pandemin påverkar hela samhället, och verkar för budskap för olika 
+händelseutvecklingar framåt. 
+Vi har också särskilda uppdrag för information till a llmänheten, och hur allmänheten uppfattar läget, oc h 
+hur beteendeen förändras, bland annat med undersöknin gar som vi gjort ungefär ett år. 
+En kortfattad beskrivning från den senaste rapporten f rån februari som finns på MSB:s webbplats. 
+Det generella förtroendet för hanteringen är för nä rvarande stabilt, om än på lägre nivåer än under 
+2020. 
+De som svarar att de har stort förtroende är fler än de som svarar att de har ett litet. 
+Ganska många, en fjärdedel svarar varken stort eller  litet förtroende. 
+Fler svarar att samhällsgemenskapen kan minska på grund  av pandemin. 
+Fler anger oro för psykisk ohälsa, för unga personer, 1 8-29 år, är det en större andel där som anger oro. 
+En stor majoritet anger att de kommer vaccinera sig,  och att de följer rekommendationerna på ett 
+överlag bra sätt. 
+Och lika mycket som för några veckor sen. 
+Många upplever dock att andra är dåliga på att följ a rekommendationer. 
+Så en bild av det egna beteendet och en bild av and ra beteende. 
+Och myndigheternas insatser för att bidra till smitt säkert beteende, under nästa vecka blir insatserna 
+mer synliga, med siktet på påsken. 
+Så fortsatt att följa rekommendationer, följ webbpla tsen krisinformation.se, där man når mycket 
+information, med länkar till myndigheter, regeringe n och regioner. 
+Tack så mycket. 
+-TAck, vi tar frågor. 
+16 medier ska ställa frågor. 
+Vi har inte mycket tid. 
+Vi börjar med TT. 
+-Ja, till Folkhälsomyndigheten. 
+
+Hur ser ni på uppgifterna från Norge att Astravacci net var bakomliggande orsak till blodproppar bland 
+anställda på sjukhus? 
+-Vi inväntar besked från EMA och Läkemedelsverket, vi  har inte tagit ställning till uppgifterna från Norg e, 
+inväntar bedömningar från Läkemedelsverket. 
+-Kommer det påverka beslut i framtiden? 
+-Ja, vi kommer såklart se över hur det påverkar vår r ekommendationer om vacciner, och vilka vacciner 
+som gäller, men då vi inväntar den utredning som pågå tt några dagar har vi inget underlag att ta ställnin g 
+till. 
+Den utredningen som görs blir avgörande. 
+-okej, tack. 
+-Ekot. 
+-Hej, Stefan Löfven sa till SVT igår att man överväg er att ge fler personer en dos istället för att fler får två 
+doser för att nå längre och ge fler grundskydd, om va ccinationer drar ut över tiden. 
+Funderar ni över det också? 
+-Ja, det skulle då vara den rekommendation vi har i grunden. 
+Men man ser på nya kunskaper hela tiden, och ställa d et mot hur det påverkar vaccinationstakten, och 
+effekten av vaccin när vi har virusvarianter i omlop p. 
+Vi bevakar frågan och kommer återkomma med besked. 
+Men det är mycket som behöver tas in så vi når ett kl okt beslut. 
+-Okej, för en vecka sen meddelade ni att Curevac int e skulle leverera i april eller maj, utan i juni. 
+Tysk tidning skriver att det inte blir juni heller, v ad vet ni? 
+-Har ingen uppgift. 
+-Tack. 
+-Tv4. 
+-Svenska infektionsläkarföreningen skriver idag att p ersoner som haft covid-19 och har antikroppar bör 
+kunna vänta med vaccin, och att man ska prioritera andra grupp, ni har fått frågor om det, finns nya 
+besked när det gäller personer som har antikroppar, o m de kan vänta med att få vaccination? 
+-Nej, inga besked, det ingår i hela paketet där vi s er på doserna och om vi ska se på dessa grupp. 
+Men just nu vaccineras personer som har låg förekomst a v tidigare infektion, så det blir framförallt 
+
+relevant i fas 3 och fas 4, så vi har lite tid på oss, så  det är viktigt att ha så mycket information som 
+möjligt, så vi inte missdömer värdet av något, i relat ion till den typ av smittspridning vi har. 
+Vi ser inte att det kommer ha så jättestor på den ta kt vi har nu, men kanske senare. 
+-När det gäller mätningar av antikroppar, är det i linje med det ni sett av inrapporterade fall, som va r 
+ganska lågt. 
+Förväntat eller i linje? 
+-Nej, det speglar utvecklingen för pandemin, vad det  gäller inrapporterade fall. 
+Under tidiga våren hade vi begränsad förmåga till pr ovtagning, men där ser vi att det speglar 
+utvecklingen i olika regioner. 
+Vi vet från andra undersökningar att vissa grupper har  mer förekomst. 
+Så numret är mer normerande. 
+-Tack, Aftonbladet. 
+-Tack, jag vänder mig till Karin Tegmark-Wisell och  Folkhälsomyndigheten. 
+Karin, du beskrev tidigare att vi befinner oss i en m ycket svår situation, liknande den vi var under för ra 
+året. 
+Vad är de största bidragadne orsakerna till att det ä r en svår situation? 
+Mutationer, att man inte håller sig till restriktion ? 
+-Att vi är i en vintersäsong med mycket vistelse inomhu s. 
+Klimatet har viss påverkan, temperatur och luftfukti ghet, men sannolikt vårt sätt att leva, vara mycket 
+inomhus. 
+Vi har skyddat mot infektion bra, men inte tillräckl igt bra då många fått konsekvenser av sjukdomen i fal l 
+vad svår sjukdomen och stort antal döda, men en lit en del av befolkningen hade det under 2020, så nu 
+under vintersäsongen är många mottagliga. 
+Men det är fortsatt många som är det. 
+Det är viktigt att vaccinationer löper på så vi kan skydda sårbara. 
+Det är inte genom naturlig infektion man ska få skydd . 
+Även om man har byggt upp så är det fortsatt smittsprid ning. 
+Det måste vi bara förhålla oss till. 
+
+Sen, virusvarianter kan också påverka, men det är no g på marginalen, det utmanar mycket, det är 
+påvisat. 
+Det försvårar ytterligare. 
+-Så du menar att det är då att vi är inomhus mycket som är den största anledningen till att vi ser 
+smittspridningen igen? Och klimatet? 
+-det är bedömningen, hur vi lever under den period vi är i. Vi såg en minskning av smittspridning under 
+sommaren, men i kombination med att det låg kvar rest riktioner i hur vi träffades mellan åldrar och 
+grupper. Men det är en stor anledning att vi har en hög smittspridning under den här delen av året, 
+bedömer vi.  
+-Vi väntar på beslut angående Astra Zenecas vaccin -  om EMA ger grönt ljus, när bedömning 
+Folkhälsomyndigheten att vi kan börja vaccinera med Astra Zeneca igen? 
+-Det blir en uppstartsfas, men inte så lång. Men det må ste ske distribution till regionerna igen. Jag kan 
+inte svara exakt, men fokus är att ta in så mycket k unskap som möjligt. Vi väntar på rapporteringen från  
+EMA, och ställningstagande från Läkemedelsverket. Vi  beaktar aspekter som kommer fram i 
+utredningen.  
+-Expressen, god eftermiddag. Två frågor till Karin Te gmark-Wisell, och frågor till Socialstyrelsen. I 17 a v 
+21 regioner säger man att personer har tackat nej til l Astra Zenecas vaccin. Kommer den som tackat nej 
+erbjudas ett annat vaccin? 
+-När det gäller Astra Zenecas vaccin kan vi inte säga något i nuläget. Vi väntar på utredningen som pågår.  
+Sedan tar vi ställning till konsekvenserna.  
+-Men det handlar om dem som aktivt sagt nej. Kommer d e erbjudas något annat?  
+-Det beror på vad vi kommer frma till för rekommend ation. Det beror på gruppen man tillhör. Men det 
+är viktigt att samla in information. Skälet kan vara  vilken grupp man tillhör.  
+-Jag förstår. Personer 0-19 år stod för 18 procent av antal fall under vecka 9. Vilken är huvudförklaring en 
+att så många yngre drabbas. Har ni kanske uppskattat ba rns del i smittspridningen? 
+-Vi ser att det är en ökad provtagning hos barn. Par allellt med det ser vi ökad förekomst hos barn. Vi gör  
+fördjupade analyser för att se skillnad i andel barn kontra vuxna , t ex inom brittiska varianten. Men v i 
+ser också att data sedan tidigare, när det gäller för ekomst hos barn och sjuklighet, de står sig. Det som 
+gör att det rapporteras en stor andel hos barn och vux na, det kan vi fullt ut inte svara på än. Den britti ska 
+varianten har en ökad smittsamhet hos barn och vuxna.  Än så länge är det proportioneligt, men vi kan 
+inte fullt ut svara på det. Vi analyserar det för ful lt för att se om det är en förändring i epidemiologi n. När 
+det gäller antikroppar hade barn relativt låga nivå er, i största smittspridningen i våras. Under hösten 
+hände något när det stack iväg, högre än de vuxna. V i har inte alla svar, men någon förändring kanske 
+skett i epidemiologin vi inte kan ge svar på. Men vi ser inte att barn smittar mer till andra, relativt f örut. 
+Men vi måste alltid se på informationen allt eftersom .  
+
+-Jag stannar hos barnen, när jag frågar Socialstyrelse n om långtidscovid: Om fler barn och unga blir 
+smittade kan man anta att fler får långtidssymtom. Jag  hoppas ni har bättre svar idag. Hur ser det ut 
+nationellt? Hur många barn har fått långtidsdiagnosen  och vilka är de vanligaste symtomen? 
+-Det är en fråga vi jobbar med på olika sätt. Att de finiera gruppen och hämta in data, kunskap om det, 
+eftersom det är spritt och svårt att sammanställa. Inge t nytt att komma med idag mot tidigare.  
+-Vi behöver gå vidare...  
+-Jag får tillägga att det finns en diagnos för långti dssymtom, men ni kan inte få tag i datan?  
+-Ja, alltså, för hela bilden måste vi ha data från pr imärvård, vilket är svårt att komma över enkelt. De t är 
+det vi jobbar med just nu.  
+-Dags för Dagens Nyheter.  
+-Hallå! Hörs jag? Bra. En fråga till Folkhälsomyndigh eten, gällande misstänkta biverkningen då. Som jag 
+förstår det kan man konstatera att om det är en biver kning är den allvarlig, men ovanlig, och WHO säger 
+att man borde fortsätta vaccinera med vaccinet. Men vilken information är det ni saknar för att kunna 
+vaccinera?  
+-Eftersom det är en så ovanlig biverkning saknar vi n oga gjord utredning som kan påverka 
+orsakssamband till vaccinationerna i tid, för de rappo rterade fallen. Det väntar vi på för att se ett tyd ligt 
+orsakssamband, om det finns, och om det är någon särskild  grupp som drabbas mer. Vi hoppas 
+utredningen som åtminstone delvis kommer rapportera s i eftermiddag ger lite mer underlag, så vi kan ta 
+ställning till fortsatt rekommendation från oss, vilka vaccinationer som ska användas i Sverige.  
+-Om det finns orsakssamband, ser ni inte att man kan for tsätta med Astra Zenecas vaccin? 
+-Vi har inte tagit ställning, vi väntar på informati onen. Vi ser som sagt att det är allvarliga biverknin gar, 
+och det kräver noga beaktanden utifrån den skyddseffe kt som vaccinet har, kontra biverkningar. Vilken 
+ställning tar vi i frågan? 
+-Tack.  
+-Senioren.  
+-Ja, tack så mycket. Två frågor till Karin Tegmark-W isell: Vad drar ni för slutsatser att äldre har färre 
+antikroppar än övriga vuxna? Har de följt restriktio nerna bättre? Det är ju ett argument för hur viktig t 
+det är att vaccinera dem först.  
+-infektion har förekommit i mindre omfattning hos äl dre. De bildar också antikroppar, så vi bedömer att 
+mätningen avspeglar faktisk förekomst av infektioner . Att gruppen varit skyddad speglar att de haft 
+mindre andel infektioner.  
+-Och att det är viktigt att vaccinera dem först? 
+
+-Absolut, det är prioriteringsordningen, att skydda de m som har risk för störst konsekvenser i form av 
+svår sjukdom och död.  
+-Det fria vårdvalet har bidragit till vaccinturism,  och vi har fått rapporter från Gotland och Kalmar att 
+personer bokar tid och går före andra. Det finns missnö je. Vad säger ni? 
+-Inte insatt, kan inte kommentera den frågan.  
+-Men det är okej att åka till en annan region och v accinera dig? 
+-Jag har inte den informationen och vet inte hur re gelverket ser ut.  
+-Läraren.  
+-Hej, tänkte höra om testning på arbetsplatser, flera  regioner avvaktar med det. 
+De inväntar besked från er, vilka besked? 
+-Det kanske dels kan vara att man syftar på att vi kon tinuerligt ser över vår smittspårningsvägledning, där  
+omfattas arbetsplatsen som ett viktigt fält. 
+Det är ett kontinuerligt arbete vi gör, vi planerar  att uppdatera där inom kort. 
+Samt uppdatera teststrategin, så jag är lite osäker på vad som åsyftas. 
+-Har du besked för testning på arbetsplatser? 
+-Redan idag är det vår rekommendationer att vid ett  förekommet fall ska man ha en generös testning på 
+arbetsplatser, med utvidgad smittspårning, det finns red an i vägledning. 
+Vi har inte helt landat i fortsättningen där. 
+-Men är det något ni kommer ändra, skolor exkluderas,  med relevans för lärare? 
+-Inget jag tar ställning till. 
+-Det här med barn och unga och förekomst av eventue lla mutanter, när är det klart? 
+-Det pågår, men mer data behöver analyseras, ibland f år man fram mer data och behöver leta vidare, 
+men vi hoppas på tisdagen nästa vecka.- 
+-Vetenskapsradion. 
+-Hej, tänkte höra - är det disseminerad intravasal koo agulation man utreder här med koppling till 
+Astra-Zeneca? 
+-De biverkningar vi har sett är låga trombosytnivåer  som kan innebära en sån DIC -situation. 
+Vi inväntar och ser om andra biverkningar kommit fr am? 
+
+-Kan det innebära en risk/nyttoanalys då personer un der 50 inte har lika stor risk för allvarlig sjukdom  
+och hur man då resonerar i förhållande till vaccinat ion? 
+-Ja, man måste se på det hela tiden, det gör EMA och  Läkemedelsverket, vi ytterligare, efter det, hur vi  
+sen kan rekommendera vaccination för olika grupper, det är som du säger, man måste bedöma risknytta. 
+-Hur allvarlig är pauseringen? 
+Studier visar att det kan vara bra, för att det gör dem mer effektiva i förhållande till andra variante r. 
+Andra menar att det är väldigt allvarligt, att man då kan jämföra med avbruten antibiotikakur, det kan  
+skapa nya, ge upphov till nya mutationer. 
+Är det något ni är frustrerade över i den här pauseri ngen? 
+Är ni avslappnade? 
+-Det är klart att vi ser allvarligt att vi måste pausa  vaccineringen av ett vaccin. 
+Färre individer får det bästa skyddet, och sen konsekv enser för mutationer som har någon form av 
+tolerans, så är det osäkert, vad det innebär. 
+Oavsett ligger ju alla olika rekommendationer kvar,  än så länge, både efter första och andra sprutan, 
+fortsatt försiktig med kontakter, inte minst för de a ktuella för vaccination, de äldre, att man avvaktar  till 
+andra sprutan. 
+Som tidigare ser vi över, om det är möjligt att bar a ge en spruta, om det har positiva effekter, även d är är 
+det nytta och riskbalans i det. 
+-Vi behöver gå vidare. 
+-Den brittiska virusvarianten är dominerande i Sveri ge. 
+När måste ni be om nya uppdaterade versioner av vacc in om den sydafrikanska versionen blir mer 
+spridd? 
+-Där arbetar nu tillverkar med uppdaterade versione r, precis som för influensavaccin. 
+Så snart det är tillgängligt är det relevant att anv ända det. 
+-Tack, GP. 
+-Hej. 
+Jag har en fråga till Karin Tegmark-Wisell. 
+Det gäller det sydafrikanska mutationen. 
+Forskare menar att det finns särskilda skäl att vara ex tra uppmärksam på den. 
+
+I vissa delar som Dalarna är det rätt hög förekomst av  den. 
+Ser ni någon anledning, eller att ni har en strategi  för ökad smittspridning av just den här, med tanke p å 
+att de vaccin vi har verkar sämre för den och att m an kan få den fast man varit sjuk tidigare? 
+-Strategin är att stoppa alla virusvarianter, till e xempel i fallet med brittiska virusvarianten har man  sett 
+att det tillkommit ytterligare mutationer, som visade  laboratoriemässig skillnad, strategin är att få ner 
+smittspridningen, totalt, och anpassa åtgärder som görs, snarare lättnader man inte gör, så länge vi har 
+en omfattande smittspridningen, men det är svårt att vidta särskilda åtgärder för de individer som har 
+just den virusvarianten eller någon annan. 
+För det dröjer, det finns alltid lagg innan man vet,  det är mer för riskbedömning, där är det viktigt at t 
+motverka all smitta. 
+Men det kan vara olika i olika regioner, men mer än  att preventera en individ. 
+-Tack, det var allt- 
+-Sveriges Radio Jämtland. 
+-Ja, en fråga om flockimmunitet. 
+Vad är Folkhälsomyndighetens bedömning av hur stor and el som behöver vaccineras för att uppnå 
+flockimmunitet? 
+Och hur långt bort är det nu? 
+-Vi har inte några exakta beräkningar ännu. 
+Det är ett nytt vaccin. 
+Vi vet att det skyddar bra. 
+Mot infektion överhuvudtaget, i stora grupper, man kan se effekter på det, även i äldreboende och 
+hemtjänst, men innan vi vet hur det skyddar mot smit tspridningen är det svårt att göra de 
+beräkningarna. 
+Vi har inte det ännu. 
+ 
+Vi räknar med att det kommer ta tid. 
+Då man har gott skydd krävs höga nivåer för att uppnå  flockimmunitet. 
+Vi bedömer det ligger långt i framtiden, och nu han dlar det om skydd mot sjukdom och död. 
+-Men pratar vi 60-90 procent vaccinera för att uppn å flockimmunitet? 
+
+-Sannolikt inte 99 procent, men i det häradet du nä mnde, men går inte att sgäa. 
+-Tack. 
+-Sveriges Radio Halland.- 
+Det har riktats kritik mot Halland att personer som in te har svenska som förstaspråk riskerar missa viktig 
+information, då viktig information inte alltid är u ppdaterad på fler språk med senaste läget. 
+Eller så är den också svårhittade för den som är ovan . 
+Vad ska ni göra för att nå dessa personer? 
+-Det vi gör är ju dels att översätta material, samt oc kså använda de frivilligorganisationer som finns för 
+att föra ut informationen, och vara lyhörd för de sy npunkter som lyfts från andra grupper med andra 
+modersmål. 
+Man jobbar interaktivt och försöker förbättra arbete t.-- 
+ 
+-Kommer det ske någon satsning på det här framåt? 
+Då är vi i en större kris. 
+-Det sker hela tiden, mot den gruppen. De är viktiga  och finns högt på agendan. När man kommer med 
+information är det naturligt att föra ut den på det  språk som de flesta pratar, och sedan får man sprida 
+det på bästa sätt i samhället.  
+-Har ni gjort tillräckligt? 
+-Du påtalar att vi inte gjort det, man kan alltid g öra det bättre. Men frågan är högt på agendan, för att 
+kunna ha en jämlik vård och hantering i frågan.  
+-TV2, Bornholm.  
+-Goddag, hoppas ni förstår vad jag ska säga klart och tydligt. Jag har en fråga. Min fråga är: Menar 
+Folkhälsomyndigheten att det är nödvändigt att person er som kör i transit mellan Ystad och Öresund ska 
+framvisa negativt test vid gränsen, och varför? 
+-det var en specifik fråga, jag känner inte till att  vi tagit ställning till den frågan. Vi anser att det  är viktigt 
+med negativt test för inresa till Sverige. För pendl are finns det undantag. Men frågan du ställer får ja g ta 
+med. Kanske att du skickar det till mediaenheten. Kän ner inte till det om just transitfrågan.  
+Man ser ingen risk för smittspridning då någon kör i eg et fordon denna sträcka, ser 
+Folkhälsomyndigheten det som en allvarlig risk för sm ittspridning, och att man ska ha negativt prov även 
+då man kör pendling? 
+
+-Det du beskriver, att man inte går ur sitt fordon -  det är ingen risk. Men det är inte säkert alla gör så . 
+Men jag hänvisar till dem som arbetar med det.  
+-Okej, den sista frågan, ni uppmuntrar till inreseförb undet, och hur blir möjligheter för utlänningar, 
+danskar då, att ha ett coronatest för hemresa till Dan mark, det är ju också ett krav för Danmark, och om 
+man inte har symtom? 
+-Jag tror jag uppfattade danskan. Frågan var om de so m är uutan symtom, att det är svårt att få tillgång 
+till testning inför tillbakaresa till Danmark`? 
+-Ja, om det finns möjlighet för covidtest i Sverige.  Den svenska regeringen beslutar om inreseförbud.  
+-För inresa till Danmark och andra länder, om man ska  resa utomlands, hänvisar vi till privata aktörer. 
+Det finns de som erbjuder sådan testning. Men för att p åvisa sjukdom ingår i fri testning i Sverige - det 
+spelar ingen roll vilken nationalitet man tillhör. M en i syfte att resa hänvisar vi till privata aktörer.  
+-Hej, en fråga till Folkhälsomyndigheten. Några regi oner har rapporterat om personer som är skeptiska 
+till vaccin från Astra Zeneca. Finns det oro för det ta? 
+-Ja, det finns en oro. Allt angående vaccinationer b aseras på tillit från samhället och människor, och vi 
+behöver det, för att människor ska ta vaccin enligt fritt val. Därför oroas vi över all oro över vaccine t. Vi 
+måste ha tillit och vara transparenta, när det kommer  till rekommendation och inte.  
+-En sista fråga, om EMA säger att de tror att vaccinet  är säkert, hur snabbt tror ni att ni kan ha det igån g 
+igen? Behöver ni tid för att gå igenom det de kom f ram till och se över själva? 
+-VI tar deras ord på det de kommer fram till. Det v i behöver göra är att se på de olika grupperna i 
+samhället, hur vi tar den kunskapen, för att anpassa os s till grupperna som behöver det här vaccinet och 
+andra. Vi gör vår egen bedömning och tar den tid de t behöver, så vi har förtroende i att vi tar rätt be slut. 
+I tillägg till det, behöver vi också ge regionerna t id att också få tillgång till vaccinet. Det tar nog några 
+dagar eller någon vecka efter att vi tar beslutet o m att använda vaccinet igen.  
+-The Local.  
+-Hej, en relaterad fråga till Karin Tegmark-Wisell: Premiärministern i Frankrike pratade om Astra Zenecas  
+säkerhet, och att han själv skulle ta en injektion. S om du säger, det här har gett folks självförtroende e n 
+törn. Vad gör ni för att övertyga människor om att d et är säkert? 
+-Vi har inte sett över det än, men vi måste vara tr ansparenta och vara klara med våra 
+rekommendationer. Andra tillitstillvägagångssätt har vi inte diskuterat än. Vi ska se vad som kan göras. 
+Men vi måste vara transparenta.  
+-Tack så mycket.  
+-Okej. Vi är klara för idag. Tack för att ni deltog  i presskonferensen.  
+ 
+
