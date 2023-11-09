@@ -6,10 +6,10 @@ import deepl
 translator = deepl.Translator("6426cd2e-6085-6171-d291-855c2ba32f41")
 
 # Chemin du dossier contenant les fichiers PDF
-source_folder = "/Users/antoine/Documents/Recherches/Incertitude/Données/Conférences/Texts_Sweden/Delleverans 4 201208-220203"
+source_folder = "/Users/antoine/Documents/GitHub/SWD.COVID.CONF/Data/Texts_Sweden/Original"
 
 # Chemin du dossier temporaire où les fichiers texte seront sauvegardés
-temp_txt_folder = "/Users/antoine/Documents/Recherches/Incertitude/Données/Conférences/Texts_Sweden/Translated_texts/Temp_txt"
+temp_txt_folder = "/Users/antoine/Documents/GitHub/SWD.COVID.CONF/Data/Texts_Sweden/Temps_txt"
 
 # Créer le dossier temporaire s'il n'existe pas
 if not os.path.exists(temp_txt_folder):
@@ -40,7 +40,7 @@ for filename in os.listdir(source_folder):
                 f.write(full_text)
 
 # Parcourir tous les fichiers dans le dossier temporaire et les traduire
-destination_folder = "/Users/antoine/Documents/Recherches/Incertitude/Données/Conférences/Texts_Sweden/Translated_texts"
+destination_folder = "/Users/antoine/Documents/GitHub/SWD.COVID.CONF/Data/Texts_Sweden/Translated_texts"
 
 # Parcourir tous les fichiers dans le dossier temporaire et les traduire
 for filename in os.listdir(temp_txt_folder):
