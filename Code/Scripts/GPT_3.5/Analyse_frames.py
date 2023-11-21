@@ -14,7 +14,7 @@ doc_check = Document('/Users/antoine/Documents/GitHub.nosync/SWD.COVID.CONF/Code
 prompt_text_check = "\n".join([para.text for para in doc_check.paragraphs])
 
 # Configurer l'API OpenAI
-openai.api_key = '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'
+openai.api_key = 
 
 # Fonction pour interroger GPT-3.5 avec le premier prompt
 def query_gpt3_frame(sentences):
