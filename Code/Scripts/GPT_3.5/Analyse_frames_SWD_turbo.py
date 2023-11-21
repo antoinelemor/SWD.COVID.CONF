@@ -17,7 +17,7 @@ prompt_text_check = "\n".join([para.text for para in doc_check.paragraphs])
 print("Deuxième prompt lu depuis le fichier Word.")
 
 # Configurer l'API OpenAI
-openai.api_key = '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'
+openai.api_key = 
 print("API OpenAI configurée.")
 
 # Fonction pour interroger GPT-3.5 avec le premier prompt
